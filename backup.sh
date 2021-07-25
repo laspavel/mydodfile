@@ -25,7 +25,8 @@ zip -P$PASS -9 -q -r -m ./.tmux.zip ./.tmux
 git add .
 git commit -a -m "new backup"
 autotag
-
+git push origin master
+git push --tags
 
 
 
