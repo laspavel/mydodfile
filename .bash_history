@@ -4213,3 +4213,11 @@ history | grep tag
 git tag -a "v1.0.1" -m "v1.0.1"
 #1627199083
 tig
+#1627199108
+./backup.sh
+#1627199117
+tig
+#1627199151
+git remote add git@github.com:laspavel/mydodfile.git
+#1627199157
+git remote add origin git@github.com:laspavel/mydodfile.git
