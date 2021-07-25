@@ -4247,3 +4247,125 @@ nano dotfiles_backup
 sudo nano dotfiles_backup
 #1627199972
 /home/laspavel/Projects/Hub/_mydotfiles/backup.sh
+#1627199986
+cd /home/laspavel/Projects/Hub/_mydotfiles/ && ./backup.sh
+#1627200010
+sudo nano /etc/cron.d/dotfiles_backup
+#1627200558
+pip3 install hcloud
+#1627200615
+nano hcloud.py
+#1627200685
+git status
+#1627200703
+git status
+#1627201258
+chmod +x hcloud.p
+#1627201260
+chmod +x hcloud.py
+#1627201264
+ls -la
+#1627201284
+./hcloud.py 
+#1627201377
+./hcloud.py 
+#1627201398
+./hcloud.py 
+#1627201410
+./hcloud.py 
+#1627202000
+./hcloud.py 
+#1627202016
+./hcloud.py 
+#1627202049
+./hcloud.py
+#1627202114
+./hcloud.py
+#1627202154
+./hcloud.py
+#1627202163
+./hcloud.py
+#1627202218
+./hcloud.py
+#1627202454
+./hcloud.py
+#1627202496
+./hcloud.py
+#1627202517
+python -v
+#1627202526
+python3
+#1627202643
+./hcloud.py
+#1627202655
+./hcloud.py
+#1627202731
+./hcloud.py
+#1627202748
+python3 hcloud.py 
+#1627202907
+./hcloud.py
+#1627202912
+python3 hcloud.py 
+#1627202976
+python3 hcloud.py 
+#1627203148
+python3 hcloud.py 
+#1627203177
+python3 hcloud.py 
+#1627203323
+docker exec -it python3.9
+#1627203332
+docker exec -it python3.9 bash
+#1627203365
+d_python3 
+#1627203493
+d_python3 
+#1627203742
+locate hcloud
+#1627203795
+./hcloud.py
+#1627203904
+pip3 freeze > 111
+#1627204014
+pip3 install -e . hcloud
+#1627204021
+pip3 install -e py hcloud
+#1627204081
+pip3 install --user hcloud
+#1627204087
+./hcloud.py
+#1627224450
+ssh zabbix.zealstep 
+#1627224517
+winbox
+#1627224612
+ssh zabbix.zealstep 
+#1627225081
+ssh zabbix.zealstep 
+#1627225142
+mc
+#1627225146
+ssh zabbix.zealstep 
+#1627225890
+dconf dump / > dump_gnome
+#1627226517
+git clone git@github.com:melofone/ui3-1.git
+#1627226669
+git status
+#1627226682
+git commit -a -m "Update Dockerfile"
+#1627226687
+git push origin master
+#1627227033
+o
+#1627227038
+ssh m
+#1627225613
+mc
+#1627229291
+``
+#1627229253
+ssh m
+#1627230003
+ьс

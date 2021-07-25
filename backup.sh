@@ -20,8 +20,12 @@ cp -rf ~/.bash_logout $STARTDIR
 cp -rf ~/.bash_history $STARTDIR
 cp -rf ~/.ssh $STARTDIR
 
+pip3 freeze > pip3_packages.txt
+
 zip -P$PASS -9 -q -r -m ./.ssh.zip ./.ssh
 zip -P$PASS -9 -q -r -m ./.tmux.zip ./.tmux
+
+dconf dump / > dump_gnome
 
 git add .
 git commit -a -m "new backup $DATE"
