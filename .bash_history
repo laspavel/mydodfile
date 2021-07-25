@@ -4225,3 +4225,25 @@ git remote add origin git@github.com:laspavel/mydodfile.git
 ./backup.sh
 #1627199472
 tig
+#1627199595
+./backup.sh
+#1627199610
+tig
+#1627198265
+mc
+#1627199762
+cd /etc
+#1627199763
+ls -la
+#1627199768
+cd /etc/cron.d
+#1627199769
+ls -la
+#1627199790
+sudo cp docker_cleanup dotfiles_backup
+#1627199808
+nano dotfiles_backup
+#1627199854
+sudo nano dotfiles_backup
+#1627199972
+/home/laspavel/Projects/Hub/_mydotfiles/backup.sh
