@@ -4221,3 +4221,7 @@ tig
 git remote add git@github.com:laspavel/mydodfile.git
 #1627199157
 git remote add origin git@github.com:laspavel/mydodfile.git
+#1627199160
+./backup.sh
+#1627199472
+tig

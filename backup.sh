@@ -3,6 +3,7 @@
 STARTDIR="$(pwd)"
 
 PASS=`cat .pass`
+DATE=`date '+%Y-%m-%d %H:%M:%S'`
 
 dconf dump /org/gnome/shell/extensions/dash-to-panel/ > dtp_settings
 cp -rf ~/.vimrc $STARTDIR
@@ -23,7 +24,7 @@ zip -P$PASS -9 -q -r -m ./.ssh.zip ./.ssh
 zip -P$PASS -9 -q -r -m ./.tmux.zip ./.tmux
 
 git add .
-git commit -a -m "new backup"
+git commit -a -m "new backup$DATE"
 autotag
 git push origin master
 git push --tags
