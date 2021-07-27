@@ -4369,3 +4369,39 @@ mc
 ssh m
 #1627230003
 ьс
+#1627237790
+git status
+#1627237792
+tig
+#1627273859
+docker ps -a
+#1627273886
+docker logs -f tz-zapi_zabbix-server_1
+#1627274048
+docker-compose down && docker-compose up -d
+#1627274059
+docker-compose down && docker-compose up -d
+#1627274084
+docker ps -a
+#1627274096
+htop
+#1627285736
+ssh stroyplo 
+#1627289409
+ssh stroyplo 
+#1627303802
+ssg stroyplo
+#1627303805
+ssh stroyplo
+#1627319993
+winbox
+#1627360327
+ssh stroyplo
+#1627372826
+ssh dealer-showtechnica 
+#1627380785
+mc
+#1627383013
+winbox
+#1627384175
+cd ~
