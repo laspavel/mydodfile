@@ -4405,3 +4405,45 @@ mc
 winbox
 #1627384175
 cd ~
+#1627384177
+ssh stroyplo
+#1627406849
+git status
+#1627406853
+git add .
+#1627406854
+git status
+#1627406873
+git commit -a -m "Update 27.07.2021"
+#1627406874
+tig
+#1627406885
+history | grep tags
+#1627406887
+history | grep tag
+#1627406898
+tig
+#1627406918
+git tag -a "v1.0.99" -m "v1.0.99"
+#1627406923
+git push --tags
+#1627407099
+ешп
+#1627407101
+tig
+#1627406726
+mc
+#1627409746
+winbox
+#1627389007
+ssh m
+#1627446855
+ping ut.in.ua
+#1627446864
+assh 231.27
+#1627446871
+ssh ut-web04-de 
+#1627455870
+ssh stroyplo 
+#1627479187
+dig energy.atbmarket.com
