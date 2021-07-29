@@ -4447,3 +4447,183 @@ ssh ut-web04-de
 ssh stroyplo 
 #1627479187
 dig energy.atbmarket.com
+#1627535601
+ssh stroyplo 
+#1627543589
+docker -rm run hello-world
+#1627543594
+docker run -rm hello-world
+#1627543601
+docker run -rm hello-world
+#1627543605
+docker run --rm hello-world
+#1627543621
+docker images ls
+#1627543627
+docker containers ls
+#1627543630
+docker container ls
+#1627543883
+docker run --help
+#1627535695
+bc -l
+#1627545495
+git status
+#1627545499
+ssh stroyplo 
+#1627545634
+mkdir 2
+#1627545635
+cd 2
+#1627545643
+git clone git@github.com:stroyploshadka/stroyplo4.git
+#1627546941
+gunzip tz-shopdb-stroyplo_shop-2021-07-29--02-00.sql.gz 
+#1627547452
+gunzip tz-crmdb-stroyplo_crm-2021-07-29--02-00.sql.gz 
+#1627547975
+./start.sh 
+#1627549252
+docker ps -a
+#1627549262
+docker-compose down
+#1627549962
+docker-compose down
+#1627551691
+docker build .
+#1627551705
+docker build .
+#1627551914
+docker build .
+#1627552059
+docker build .
+#1627552476
+docker build .
+#1627552552
+docker build .
+#1627552647
+docker build .
+#1627552740
+docker build .
+#1627552786
+docker build .
+#1627553680
+docker build .
+#1627553696
+docker build .
+#1627553831
+docker build .
+#1627553844
+docker ps -a
+#1627553857
+docker images ls
+#1627553863
+docker containers ls
+#1627553865
+docker container ls
+#1627553899
+docker run .
+#1627553924
+docker-compose up -d --build
+#1627553955
+docker exec -it pz-crmapp bash
+#1627554259
+docker build .
+#1627554333
+docker build .
+#1627554374
+docker build .
+#1627554413
+docker build .
+#1627554457
+docker build .
+#1627554516
+docker build .
+#1627554687
+docker build .
+#1627554805
+docker build .
+#1627555241
+docker build .
+#1627555378
+ls -la
+#1627556174
+docker build .
+#1627556252
+docker build .
+#1627556287
+docker build .
+#1627556387
+docker build .
+#1627556533
+docker build .
+#1627556648
+docker build .
+#1627556785
+docker build .
+#1627558267
+docker build .
+#1627558431
+docker build .
+#1627558436
+docker build .
+#1627546745
+mc
+#1627563857
+docker build .
+#1627545047
+mc
+#1627565476
+[5~
+#1627565018
+winbox
+#1627563502
+mc
+#1627567606
+winbox
+#1627571386
+docker build .
+#1627571498
+docker build .
+#1627571607
+docker build .
+#1627574561
+docker build .
+#1627574724
+docker build .
+#1627574733
+docker build .
+#1627574888
+docker build .
+#1627575081
+docker build .
+#1627575272
+docker build .
+#1627575568
+docker build .
+#1627575847
+docker build .
+#1627575895
+docker build .
+#1627575943
+docker build .
+#1627575971
+docker build .
+#1627576059
+docker build .
+#1627576101
+c
+#1627576472
+3
+#1627576480
+OB
+#1627576766
+docker build .
+#1627576921
+docker build .
+#1627577125
+docker build .
+#1627577286
+docker build .
+#1627577771
+OROR

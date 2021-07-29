@@ -540,7 +540,7 @@ workspaces-only-on-primary=false
 locations=@av []
 
 [org/gnome/software]
-check-timestamp=int64 1627444894
+check-timestamp=int64 1627532414
 download-updates=false
 download-updates-notify=false
 first-run=false
@@ -585,7 +585,7 @@ sort-column='name'
 sort-directories-first=true
 sort-order='ascending'
 type-format='category'
-window-position=(387, 145)
+window-position=(2341, 109)
 window-size=(1078, 677)
 
 [org/virt-manager/virt-manager]
