@@ -4627,3 +4627,233 @@ docker build .
 docker build .
 #1627577771
 OROR
+#1627579172
+docker-compose up -d --build
+#1627579446
+docker-compose down
+#1627579461
+docker-compose up -d --build
+#1627579740
+docker-compose down
+#1627579763
+git status
+#1627579769
+git add .
+#1627579771
+git status
+#1627564624
+ssh stroyplo
+#1627567458
+ssh stroyplo 
+#1627579844
+git commit -a -m "Update 29.07.2021 - 3"
+#1627579851
+git push origin master
+#1627579859
+git pull origin master
+#1627579873
+git push origin master
+#1627579879
+tig
+#1627581698
+git commit -a -m "Fix LOC tag"
+#1627581702
+git push origin master
+#1627581709
+tig
+#1627581714
+autotag 
+#1627581720
+git push origin --tags
+#1627581891
+docker-compose down
+#1627581901
+docker-compose down
+#1627581910
+sudo mc
+#1627570315
+mc
+#1627581941
+chmod +x x100-notify.sh 
+#1627581994
+docker-compose up -d --build
+#1627582083
+git commit -a -m "Fix NET tag"
+#1627582088
+git push origin master
+#1627582096
+autotag 
+#1627582099
+git push origin --tags
+#1627582477
+docker ps -a
+#1627582493
+docker exec -it tz-zapi_zabbix-server_1 bash
+#1627582762
+docker-compose down
+#1627582768
+docker-compose up -d --build
+#1627582834
+docker ps -a
+#1627582862
+docker exec -it tz-zapi_zabbix-server_1 bash
+#1627583063
+docker exec -it tz-zapi_zabbix-server_1 bash
+#1627585340
+git status
+#1627585390
+git status
+#1627585393
+git add .
+#1627585404
+git commit -a -m "Add alertscript"
+#1627585405
+tig
+#1627585410
+git push origin master
+#1627585421
+git push origin master
+#1627585428
+git status
+#1627585434
+git status
+#1627586949
+docker ps -a
+#1627587028
+./start1.py
+#1627587101
+docker-compose up -d --build
+#1627587178
+docker ps -a
+#1627587197
+docker logs -f tz-cmdbix-latest
+#1627587382
+docker logs -f tz-cmdbix-latest
+#1627588371
+docker ps -a
+#1627588389
+docker logs -f tz-zapi_zabbix-server_1
+#1627589681
+docker logs -f tz-cmdbix-latest
+#1627589693
+docker ps -a
+#1627589723
+mc
+#1627589707
+docker exec -it tz-zapi_zabbix-server_1 bash
+#1627589866
+OA
+#1627589900
+docker-compose down
+#1627589965
+docker exec -it tz-zapi_zabbix-server_1 bash
+#1627590636
+mc
+#1627590800
+docker exec -it tz-zapi_zabbix-server_1 bash
+#1627593449
+ьс
+#1627593492
+git status
+#1627593500
+git commit -a -m "Fix errors"
+#1627593504
+git push origin master
+#1627593515
+git status
+#1627593536
+git commit -a -m "Add python alerting"
+#1627593541
+git push origin master
+#1627617427
+.. 
+#1627618477
+ssh m
+#1627620515
+...
+#1627620517
+cd M
+#1627620520
+cd tsb/
+#1627620523
+git status
+#1627620526
+tig
+#1627620545
+tig
+#1627623595
+ешп
+#1627623597
+tig
+#1627623606
+ssh m
+#1627620535
+mc
+#1627623637
+ssh m
+#1627617227
+ssh stroyplo
+#1627625633
+git status
+#1627625639
+git commit -a -m "M1"
+#1627625643
+git push origin master
+#1627625885
+git commit -a -m "M2"
+#1627625887
+git push origin master
+#1627627653
+git commit -a -m "M2"
+#1627627655
+git push origin master
+#1627627804
+git commit -a -m "M3"
+#1627627805
+git push origin master
+#1627627945
+git commit -a -m "M4"
+#1627627946
+git push origin master
+#1627625825
+ssh m
+#1627617349
+mc
+#1627638794
+git status
+#1627638800
+git commit -a -m "M5"
+#1627638802
+git push origin master
+#1627638978
+git commit -a -m "M6"
+#1627638979
+git push origin master
+#1627639552
+git commit -a -m "M7"
+#1627639554
+git push origin master
+#1627640044
+git status
+#1627640047
+git commit -a -m "M8"
+#1627640049
+git push origin master
+#1627642898
+git status
+#1627642901
+git commit -a -m "M9"
+#1627642903
+git push origin master
+#1627645211
+git status
+#1627645214
+git commit -a -m "M10"
+#1627645216
+git push origin master
+#1627635139
+ssh m
+#1627646481
+git status
+#1627646483
+tig
