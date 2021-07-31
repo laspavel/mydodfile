@@ -4857,3 +4857,169 @@ ssh m
 git status
 #1627646483
 tig
+#1627656852
+ssh admin@192.168.88.65
+#1627666899
+./balenaEtcher-1.5.116-x64.AppImage 
+#1627667265
+ssh admin@192.168.88.65
+#1627667316
+mc
+#1627667775
+ssh admin@192.168.88.65
+#1627669140
+./build.sh
+#1627669167
+./build.sh
+#1627669220
+./balenaEtcher-1.5.116-x64.AppImage 
+#1627669244
+./balenaEtcher-1.5.116-x64.AppImage 
+#1627669631
+mc
+#1627656878
+mc
+#1627670229
+ssh admin@192.168.88.65
+#1627671507
+git status
+#1627671510
+git add .
+#1627671512
+git status
+#1627671532
+git commit -a -m "Add orange offline installer"
+#1627671541
+autotag
+#1627671546
+git push origin master
+#1627671567
+git push --tags
+#1627671581
+git status
+#1627671584
+git add .
+#1627671586
+git status
+#1627671590
+git commit -a -m "Add orange offline installer"
+#1627671598
+autotag
+#1627671601
+git push origin master
+#1627671615
+git push --tags
+#1627671622
+tig
+#1627671630
+tig
+#1627672561
+docker ps -a
+#1627672576
+docker exec -it tz-zapi_zabbix-server_1 bash
+#1627673466
+mc
+#1627673521
+git status
+#1627673823
+assh stroyplo
+#1627679242
+assh stroyplo
+#1627679953
+mc
+#1627678458
+mc
+#1627681657
+cat /var/log/dnf.log
+#1627681632
+htop
+#1627678167
+d_python3 
+#1627682322
+tig
+#1627682328
+git status
+#1627682332
+git add .
+#1627682333
+git status
+#1627682466
+git commit -a -m "Beta version sender"
+#1627682469
+git push origin master
+#1627682480
+git status
+#1627682499
+git commit -a -m "Beta version sender"
+#1627682503
+git add .
+#1627682505
+git commit -a -m "Beta version sender 2"
+#1627682507
+git push origin master
+#1627682513
+tig
+#1627721639
+sshfs dealer-showtechnica:/ ~/3
+#1627721648
+sshfs dealer-showtechnica:/ ~/3
+#1627721651
+mc
+#1627721666
+ssh dealer-showtechnica 
+#1627729077
+sshfs dealer-showtechnica:/ ~/3
+#1627729784
+cd ~/Projects/M/tsb/
+#1627729785
+git status
+#1627729803
+git commit -a -m "Update logic with options /help"
+#1627729809
+git push origin master
+#1627729815
+tig
+#1627729856
+history | grep tags
+#1627729858
+history | grep tag
+#1627729879
+tig
+#1627730002
+git tag -a "v2.2.14" -m "v2.2.14"
+#1627730009
+git push origin master
+#1627730016
+git push --tags
+#1627730176
+ssh n
+#1627730278
+git commit -a -m "Fix error"
+#1627730288
+autotag 
+#1627730292
+git push origin master
+#1627730302
+git push --tags
+#1627731071
+umount ~/3
+#1627731082
+umount ~/3
+#1627731089
+umount ~/3
+#1627731117
+umount ~/3
+#1627731125
+fusermount -u ~/3
+#1627731137
+ssh dealer-showtechnica 
+#1627733364
+sudo yum update chrome
+#1627733376
+sudo yum update google-chrome
+#1627743362
+[<0;64;13m[1~
+#1627747551
+git status
+#1627743180
+mc
