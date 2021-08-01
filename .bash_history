@@ -5023,3 +5023,85 @@ sudo yum update google-chrome
 git status
 #1627743180
 mc
+#1627754112
+git status
+#1627759075
+9
+#1627759696
+./build.sh
+#1627759704
+./build.sh
+#1627759736
+git status
+#1627759739
+git add .
+#1627759866
+git status
+#1627759934
+git commit -a -m "Add beta offile package rpi"
+#1627759940
+autotag 
+#1627759950
+git push origin master
+#1627760058
+git push --tags
+#1627760068
+..
+#1627760072
+cd clientA
+#1627760077
+git status
+#1627760080
+git add .
+#1627760088
+git status
+#1627760095
+git commit -a -m "Add beta offile package rpi"
+#1627760102
+autotag 
+#1627760108
+git push origin master
+#1627760187
+git push --tags
+#1627760206
+mc
+#1627760272
+./build.sh
+#1627760281
+./build.sh
+#1627747557
+ssh stroyplo 
+#1627754669
+ssh stroyplo 
+#1627834638
+ешп
+#1627834640
+tig
+#1627834752
+mc
+#1627834820
+ssh m
+#1627835398
+git status
+#1627835407
+git commit -a -m "Update Default.mp4"
+#1627835418
+autotag 
+#1627835426
+git push origin master
+#1627835447
+git push --tags
+#1627835458
+./build.sh
+#1627835608
+./build.sh
+#1627834110
+ssh admin@192.168.88.65
+#1627835647
+./balenaEtcher-1.5.116-x64.AppImage 
+#1627836149
+mc
+#1627835392
+mc
+#1627836897
+ssh admin@192.168.88.65
