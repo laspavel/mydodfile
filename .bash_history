@@ -5135,3 +5135,121 @@ mc
 ssh admin@192.168.88.65
 #1627916678
 winbox
+#1627926831
+ssh stroyplo 
+#1628002182
+mc
+#1628002415
+locate tinyproxy
+#1628002426
+updatedb
+#1628002429
+sudo updatedb
+#1628002443
+locate tinyproxy
+#1628002446
+locate tinyproxy*
+#1628002621
+mc
+#1628004421
+history | grep docker
+#1628011070
+git status
+#1628011076
+git add .
+#1628011077
+git status
+#1628011084
+git commit -a -m "init repo"
+#1628011095
+git push origin master
+#1628011121
+umount /run/media/laspavel/FE6E6B996E6B498B 
+#1628011041
+mc
+#1628011172
+git status
+#1628011175
+tig
+#1628011185
+git status
+#1628011188
+git diff
+#1628017205
+ansible-playbook -i inventory.ini _add_client.yml 
+#1628017486
+ansible-playbook -i inventory.ini _add_client.yml 
+#1628017545
+ansible-playbook -i inventory.ini _add_client.yml 
+#1628018135
+cat client.yml 
+#1628018806
+ansible-playbook -i inventory.ini _add_client.yml 
+#1628019107
+ansible-playbook -i inventory.ini _add_client.yml 
+#1628051326
+mc
+#1628055943
+ssh assort
+#1628055957
+ssh stroyplo 
+#1628056116
+git status
+#1628056287
+ansible-playbook -i inventory.ini example.yml 
+#1628056305
+ansible-playbook -i inventory.ini example.yml 
+#1628056310
+ansible-playbook -i inventory.ini example.yml 
+#1628056338
+ansible-playbook -i inventory.ini example.yml 
+#1628056342
+ansible-playbook -i inventory.ini example.yml 
+#1628056396
+ansible-playbook -i inventory.ini example.yml 
+#1628056433
+ansible-playbook -i inventory.ini example.yml 
+#1628056439
+ansible-playbook -i inventory.ini example.yml  --ask-pass
+#1628056720
+ansible-playbook -i inventory.ini example.yml  --ask-pass
+#1628056889
+ansible-playbook -i inventory.ini example.yml  --ask-pass
+#1628056944
+ansible-playbook -i inventory.ini example.yml  --ask-pass
+#1628057156
+ansible-playbook -i inventory.ini example.yml  --ask-pass
+#1628057268
+ssh root@192.168.88.165
+#1628057352
+ansible-playbook -i inventory.ini example.yml  --ask-pass
+#1628057752
+OB
+#1628057774
+[1~
+#1628057828
+ansible-playbook -i inventory.ini example.yml  --ask-pass
+#1628057917
+ansible-playbook -i inventory.ini example.yml  --ask-pass
+#1628058119
+git status
+#1628058127
+git tcommit -a -m "Init repo"
+#1628058136
+git add .
+#1628058138
+git commit -a -m "Init repo"
+#1628058146
+git push origin master
+#1628058150
+tig
+#1628057345
+mc
+#1628094540
+history | grep sshfs
+#1628094551
+mkdir ~/3
+#1628094558
+sshfs dealer-showtechnica:/ ~/3
+#1628094898
+tig
