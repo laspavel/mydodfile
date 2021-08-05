@@ -5253,3 +5253,53 @@ mkdir ~/3
 sshfs dealer-showtechnica:/ ~/3
 #1628094898
 tig
+#1628094911
+tig
+#1628087673
+ssh dealer-showtechnica 
+#1628099048
+ssh stroyplo
+#1628101890
+mount
+#1628101920
+sshfs dealer-showtechnica:/ ~/3
+#1628099840
+ssh dealer-showtechnica 
+#1628101904
+mc
+#1628106864
+umount ~/
+#1628106865
+umount ~/3
+#1628145598
+ssh assort
+#1628149984
+git clone https://laspavel@bitbucket.org/M_Sliadnev/server-etc.git
+#1628149998
+git clone https://laspavel@bitbucket.org/M_Sliadnev/server-etc.git
+#1628150048
+git clone https://laspavel@bitbucket.org/M_Sliadnev/server_docs.git
+#1628150200
+git remote -v
+#1628150205
+git remote rm origin
+#1628150225
+git remote add origin git@github.com:zealstep/zabbix_docs.git
+#1628150236
+git push origin master
+#1628146980
+mc
+#1628157343
+bc -l
+#1628164915
+git remote -v
+#1628164921
+git remote rm origin
+#1628164929
+git remote add origin git@github.com:zealstep/srv_etc.git
+#1628164935
+git push origin master
+#1628164963
+ssh zealstep 
+#1628164901
+mc
