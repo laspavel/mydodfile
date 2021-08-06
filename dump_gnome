@@ -66,7 +66,7 @@ show-weekdate=true
 
 [org/gnome/desktop/input-sources]
 current=uint32 0
-mru-sources=[('xkb', 'ru'), ('xkb', 'us'), ('xkb', 'ua')]
+mru-sources=[('xkb', 'us'), ('xkb', 'ru'), ('xkb', 'ua')]
 sources=[('xkb', 'us'), ('xkb', 'ru'), ('xkb', 'ua')]
 xkb-options=['lv3:ralt_switch', 'grp:shift_caps_toggle']
 
@@ -540,13 +540,13 @@ workspaces-only-on-primary=false
 locations=@av []
 
 [org/gnome/software]
-check-timestamp=int64 1628140627
+check-timestamp=int64 1628226177
 download-updates=false
 download-updates-notify=false
 first-run=false
 install-timestamp=int64 1613421041
 online-updates-timestamp=int64 1621662286
-upgrade-notification-timestamp=int64 1627645808
+upgrade-notification-timestamp=int64 1628254901
 
 [org/gnome/system/location]
 enabled=false
@@ -580,13 +580,13 @@ location-mode='path-bar'
 show-hidden=false
 show-size-column=true
 show-type-column=true
-sidebar-width=170
+sidebar-width=169
 sort-column='name'
 sort-directories-first=true
 sort-order='ascending'
 type-format='category'
-window-position=(263, 95)
-window-size=(1078, 677)
+window-position=(405, 119)
+window-size=(1080, 677)
 
 [org/virt-manager/virt-manager]
 manager-window-height=550

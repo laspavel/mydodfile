@@ -5303,3 +5303,189 @@ git push origin master
 ssh zealstep 
 #1628164901
 mc
+#1628228210
+ansible-playbook -i inventory.ini _add_client.yml 
+#1628227994
+mc
+#1628228508
+ssh m
+#1628236717
+git clone git@github.com:laspavel/ansible-splunk.git
+#1628237013
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628237068
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628237073
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628237272
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628237320
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628237341
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628237451
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628238060
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628238300
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628238317
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628238354
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628238807
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628238847
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628239338
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628239346
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628239437
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628239505
+nano inventory.ini
+#1628239537
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628239953
+ansible-playbook -i inventory.ini example.yml --ask-pass --tags config
+#1628240007
+ansible-playbook -i inventory.ini example.yml --ask-pass --tags config
+#1628240135
+ansible-playbook -i inventory.ini example.yml --ask-pass --tags conf
+#1628240142
+ansible-playbook -i inventory.ini example.yml --ask-pass --tags "conf"
+#1628240203
+ansible-playbook -i inventory.ini example.yml --ask-pass --tags conf
+#1628240224
+ansible-playbook -i inventory.ini example.yml --ask-pass --tags "conf"
+#1628240297
+ansible-playbook -i inventory.ini example.yml --ask-pass --tags "conf"
+#1628240307
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628240687
+git commit -a -m "Final rpm version"
+#1628240692
+git push origin master
+#1628228694
+mc
+#1628243415
+ssh root@192.168.88.40
+#1628243429
+ssh root@192.168.88.39
+#1628243454
+nano inventory.ini
+#1628243487
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628243539
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628243582
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628243808
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628244167
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628244330
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628244381
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628244508
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628244771
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628244803
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628244828
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628244848
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628244881
+[1~
+#1628245003
+wget -O splunkforwarder-8.2.1-ddff1c41e5cf-linux-2.6-amd64.deb 'https://www.splunk.com/bin/splunk/DownloadActivityServlet?architecture=x86_64&platform=linux&version=8.2.1&product=universalforwarder&filename=splunkforwarder-8.2.1-ddff1c41e5cf-linux-2.6-amd64.deb&wget=true'
+#1628245036
+wget -O splunkforwarder-8.2.1-ddff1c41e5cf-linux-2.6-amd64.deb 'https://www.splunk.com/bin/splunk/DownloadActivityServlet?architecture=x86_64&platform=linux&version=8.2.1&product=universalforwarder&filename=splunkforwarder-8.2.1-ddff1c41e5cf-linux-2.6-amd64.deb&wget=true'
+#1628243439
+mc
+#1628245974
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628246270
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628247199
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628247242
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628247276
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628247315
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628249682
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628249777
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628250412
+cd ~
+#1628250413
+ls -la
+#1628250772
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628252106
+nano inventory.ini 
+#1628252132
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628252706
+nano inventory.ini 
+#1628252712
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628256249
+nano inventory.ini 
+#1628256273
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628256383
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628256919
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628257011
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628257182
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628257505
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628257533
+nano setup-rpm.yml 
+#1628257573
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1628258077
+[15~
+#1628258316
+git status
+#1628258332
+git add .
+#1628258334
+git status
+#1628258356
+git commit -a -m "Final playbook"
+#1628258362
+git push origin master
+#1628258374
+git pull origin master
+#1628258411
+git commit -a -m "Final playbook 2"
+#1628258414
+git push origin master
+#1628258439
+tig
+#1628258541
+git status
+#1628258546
+git commit -a -m "Final playbook 3"
+#1628258548
+git push origin master
+#1628263168
+journelctl -xe
+#1628263171
+journalctl -xe
+#1628263208
+journalctl -xl
+#1628268431
+journalctl -xe
