@@ -5489,3 +5489,51 @@ journalctl -xe
 journalctl -xl
 #1628268431
 journalctl -xe
+#1628268788
+journalctl -xe
+#1628269306
+journalctl -xe
+#1628269308
+journalctl -xe
+#1628269313
+journalctl -xl Remonna
+#1628269317
+journalctl -xl reminna
+#1628277091
+sudo dnf install reminna
+#1628277107
+sudo dnf install remmina
+#1628277256
+ssh m
+#1628278251
+xrdb 
+#1628278931
+mc
+#1628280650
+ешп
+#1628280654
+tig
+#1628280677
+git reset --hard 85941c925695b079dac323cfb018894d8a99f06f
+#1628280714
+tig
+#1628280755
+./build.sh
+#1628280772
+./build.sh
+#1628245825
+mc
+#1628233897
+ssh stroyplo 
+#1628281084
+winbox
+#1628281847
+./balenaEtcher-1.5.116-x64.AppImage 
+#1628282186
+./balenaEtcher-1.5.116-x64.AppImage 
+#1628282519
+winbox
+#1628282549
+ssh admin@192.168.88.65
+#1628312147
+git status
