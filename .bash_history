@@ -5537,3 +5537,29 @@ winbox
 ssh admin@192.168.88.65
 #1628312147
 git status
+#1628356980
+ansible-galaxy init prometheus
+#1628363728
+winbox
+#1628366067
+ьс
+#1628366409
+ls -la
+#1628367367
+grep -rn "reboot"
+#1628399971
+ё
+#1628399995
+OB
+#1628411031
+OB
+#1628411041
+[2~
+#1628413799
+git remote -v
+#1628413801
+git remote -v
+#1628413803
+git status
+#1628413806
+tig

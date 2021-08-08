@@ -66,7 +66,7 @@ show-weekdate=true
 
 [org/gnome/desktop/input-sources]
 current=uint32 0
-mru-sources=[('xkb', 'ru'), ('xkb', 'us'), ('xkb', 'ua')]
+mru-sources=[('xkb', 'us'), ('xkb', 'ru'), ('xkb', 'ua')]
 sources=[('xkb', 'us'), ('xkb', 'ru'), ('xkb', 'ua')]
 xkb-options=['lv3:ralt_switch', 'grp:shift_caps_toggle']
 
@@ -223,7 +223,7 @@ background-color='rgb(0,0,0)'
 use-background-color=true
 
 [org/gnome/evince/default]
-window-ratio=(1.0, 0.34999999999999998)
+window-ratio=(1.7852675870237773, 0.52064414578036078)
 
 [org/gnome/evolution-data-server]
 migrated=true
@@ -540,7 +540,7 @@ workspaces-only-on-primary=false
 locations=@av []
 
 [org/gnome/software]
-check-timestamp=int64 1628311221
+check-timestamp=int64 1628392805
 download-updates=false
 download-updates-notify=false
 first-run=false
@@ -580,12 +580,12 @@ location-mode='path-bar'
 show-hidden=false
 show-size-column=true
 show-type-column=true
-sidebar-width=169
+sidebar-width=170
 sort-column='name'
 sort-directories-first=true
 sort-order='ascending'
 type-format='category'
-window-position=(2477, 250)
+window-position=(606, 80)
 window-size=(1080, 677)
 
 [org/virt-manager/virt-manager]
