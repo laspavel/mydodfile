@@ -5563,3 +5563,21 @@ git remote -v
 git status
 #1628413806
 tig
+#1628488826
+select-editor
+#1628489344
+vc
+#1628489442
+cd ~/Projects/Hub/start/
+#1628489482
+v
+#1628496889
+nano 22222
+#1628497619
+v .gitconfig
+#1628499313
+nano .bashrc
+#1628506163
+v k8s_kyiv.txt 
+#1628520407
+ping test-etp.atbmarket.com
