@@ -139,7 +139,7 @@ alias pogoda="curl wttr.in/Dnepr"
 alias v="code $1"
 
 # list all "Host" and "HostName" lines, then remove the strings: "Host " and "HostName "
-alias sshhosts="grep -w -i -E 'Host|HostName' ~/.ssh/config | sed 's/Host //' | sed 's/HostName //'"
+alias sshhosts="grep -w -i -E 'Host|HostName' ~/.ssh/config ~/.ssh/config.d/* | sed 's/Host //' | sed 's/HostName //'"
 
 #Docker
 alias ubuntu18='docker run -it --rm -v $(pwd):/data -w /data ubuntu:18.04 /bin/bash'

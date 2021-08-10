@@ -223,7 +223,7 @@ background-color='rgb(0,0,0)'
 use-background-color=true
 
 [org/gnome/evince/default]
-window-ratio=(1.7852675870237773, 0.52064414578036078)
+window-ratio=(1.7836432428321547, 0.52019002375296908)
 
 [org/gnome/evolution-data-server]
 migrated=true
@@ -540,7 +540,7 @@ workspaces-only-on-primary=false
 locations=@av []
 
 [org/gnome/software]
-check-timestamp=int64 1628480320
+check-timestamp=int64 1628567571
 download-updates=false
 download-updates-notify=false
 first-run=false
@@ -583,7 +583,7 @@ show-type-column=true
 sidebar-width=170
 sort-column='name'
 sort-directories-first=true
-sort-order='ascending'
+sort-order='descending'
 type-format='category'
 window-position=(2340, 109)
 window-size=(1080, 677)

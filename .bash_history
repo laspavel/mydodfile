@@ -5581,3 +5581,41 @@ nano .bashrc
 v k8s_kyiv.txt 
 #1628520407
 ping test-etp.atbmarket.com
+#1628530427
+ssh dealer-showtechnica 
+#1628488048
+mc
+#1628572273
+dig +short myip.opendns.com @resolver1.opendns.com
+#1628572432
+sudo ifconfig -a | grep -o 'inet6\\? \\(addr:\\)\\?\\s\\?\\(\\(\\([0-9]\\+\\.\\)\\{3\\}[0-9]\\+\\)\\|[a-fA-F0-9:]\\+\\)' | awk '{ sub(/inet6? (addr:)? ?/, \"\"); print }'
+#1628572488
+curl http://wttr.in/Curitiba?0F1qn
+#1628572504
+curl http://wttr.in/Dnepr?0F1qn
+#1628572516
+curl http://wttr.in/Dnipro?0F1qn
+#1628572595
+curl http://wttr.in/Dnipro
+#1628572740
+curl http://wttr.in/Dnipro?lang=ru
+#1628572797
+sshhosts 
+#1628572808
+sshhosts de
+#1628571109
+mc
+#1628572929
+sshhosts 
+#1628572937
+sshhosts 
+#1628572947
+assh 
+#1628573587
+docker run --rm -t --name=howdoi ellisonleao/howdoi date
+#1628573762
+docker run --rm -t --name=howdoi ellisonleao/howdoi format date bash
+#1628576146
+mc
+#1628586121
+winbox
