@@ -540,7 +540,7 @@ workspaces-only-on-primary=false
 locations=@av []
 
 [org/gnome/software]
-check-timestamp=int64 1628567571
+check-timestamp=int64 1628655096
 download-updates=false
 download-updates-notify=false
 first-run=false

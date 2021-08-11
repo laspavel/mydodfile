@@ -5619,3 +5619,23 @@ docker run --rm -t --name=howdoi ellisonleao/howdoi format date bash
 mc
 #1628586121
 winbox
+#1628610086
+man ssh
+#1628616841
+sudo dnf install autossh
+#1628616862
+man autossh
+#1628617220
+systemctl status autossh
+#1628617231
+systemctl status autossh
+#1628626871
+winbox
+#1628657558
+v rozapi.py
+#1628655396
+mc
+#1628680644
+ssh dealer-showtechnica 
+#1628685607
+ьс
