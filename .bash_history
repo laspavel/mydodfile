@@ -5639,3 +5639,11 @@ mc
 ssh dealer-showtechnica 
 #1628685607
 ьс
+#1628743043
+ssh m
+#1628742810
+mc
+#1628743713
+ssh m
+#1628784653
+uname -r
