@@ -5647,3 +5647,111 @@ mc
 ssh m
 #1628784653
 uname -r
+#1628784782
+man uname
+#1628795966
+ssh dealer-showtechnica 
+#1628755512
+mc
+#1628828488
+git pull origin master
+#1628828543
+git commit -a -m "Fix error 2"
+#1628828547
+git push origin master
+#1628827586
+ssh assort 
+#1628830496
+?? (409+200)*1.02
+#1628830501
+??
+#1628830511
+bc -l
+#1628832939
+ssh assort 
+#1628834143
+ssh zealstep 
+#1628845589
+nano inventory.ini
+#1628845677
+ansible-playbook  -i inventory.ini example.yml 
+#1628845684
+ansible-playbook  -i inventory.ini example.yml -ask-pass
+#1628845688
+ansible-playbook  -i inventory.ini example.yml --ask-pass
+#1628845787
+ansible-playbook  -i inventory.ini example.yml --ask-pass
+#1628827933
+ssh dealer-showtechnica 
+#1628847363
+ssh root@192.168.88.34
+#1628847325
+ssh root@192.168.88.165
+#1628856605
+ssh root@192.168.88.31
+#1628858257
+ipa
+#1628858260
+ip a
+#1628856788
+ssh root@192.168.88.32
+#1628860405
+ssh root@192.168.88.32
+#1628860418
+ssh root@192.168.88.165
+#1628863787
+ssh root@192.168.88.165
+#1628860529
+ssh root@192.168.88.34
+#1628864047
+ssh root@192.168.88.34
+#1628864180
+ssh root@192.168.88.165
+#1628864276
+ssh root@192.168.88.165
+#1628864263
+ssh root@192.168.88.34
+#1628864326
+ssh root@192.168.88.165
+#1628864522
+ssh root@192.168.88.34
+#1628864636
+ssh root@192.168.88.165
+#1628864679
+ssh root@192.168.88.165
+#1628864800
+ssh root@192.168.88.34
+#1628864846
+ssh root@192.168.88.165
+#1628864875
+ssh root@192.168.88.34
+#1628864934
+ssh root@192.168.88.34
+#1628864968
+ssh root@192.168.88.34
+#1628865860
+ssh root@192.168.88.165
+#1628866062
+ssh root@192.168.88.34
+#1628866098
+ssh root@192.168.88.31
+#1628866187
+ssh root@192.168.88.34
+#1628866284
+ssh root@192.168.88.165
+#1628866377
+ssh root@192.168.88.165
+#1628866475
+ssh root@192.168.88.34
+#1628866518
+ssh root@192.168.88.165
+#1628866579
+ssh root@192.168.88.165
+#1628866642
+ssh root@192.168.88.34
+#1628866801
+ssh root@192.168.88.165
+#1628866810
+ssh root@192.168.88.31
+#1628866821
+ssh root@192.168.88.32
