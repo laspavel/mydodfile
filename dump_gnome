@@ -66,7 +66,7 @@ show-weekdate=true
 
 [org/gnome/desktop/input-sources]
 current=uint32 0
-mru-sources=[('xkb', 'ru'), ('xkb', 'us'), ('xkb', 'ua')]
+mru-sources=[('xkb', 'us'), ('xkb', 'ru'), ('xkb', 'ua')]
 sources=[('xkb', 'us'), ('xkb', 'ru'), ('xkb', 'ua')]
 xkb-options=['lv3:ralt_switch', 'grp:shift_caps_toggle']
 
@@ -251,7 +251,7 @@ active-plugins=['spell', 'filebrowser', 'time', 'modelines', 'docinfo']
 [org/gnome/gedit/plugins/filebrowser]
 root='file:///'
 tree-view=true
-virtual-root='file:///home/laspavel/tmp'
+virtual-root='file:///home/laspavel/.cache/.fr-YjXASF/kuard-0.10.0'
 
 [org/gnome/gedit/preferences/encodings]
 candidate-encodings=['UTF-8', 'WINDOWS-1251', 'KOI8-R', 'CURRENT', 'ISO-8859-15', 'UTF-16']
@@ -540,13 +540,13 @@ workspaces-only-on-primary=false
 locations=@av []
 
 [org/gnome/software]
-check-timestamp=int64 1628825064
+check-timestamp=int64 1628917315
 download-updates=false
 download-updates-notify=false
 first-run=false
 install-timestamp=int64 1613421041
 online-updates-timestamp=int64 1621662286
-upgrade-notification-timestamp=int64 1628254901
+upgrade-notification-timestamp=int64 1628882656
 
 [org/gnome/system/location]
 enabled=false

@@ -5755,3 +5755,43 @@ ssh root@192.168.88.165
 ssh root@192.168.88.31
 #1628866821
 ssh root@192.168.88.32
+#1628878078
+winbox
+#1628879431
+git clone https://github.com/kubernetes-up-and-running/kuard.git
+#1628880867
+history | grep build
+#1628881396
+docker build -t laspavel/kuard:v0.10.0 .
+#1628881623
+docker pull laspavel/kuard
+#1628881636
+docker pull laspavel/kuard:v0.10.0
+#1628881656
+docker push laspavel/kuard:v0.10.0
+#1628881667
+docker login
+#1628881685
+docker push laspavel/kuard:v0.10.0
+#1628881735
+docker push laspavel/kuard:latest
+#1628881745
+docker build -t laspavel/kuard .
+#1628881748
+docker push laspavel/kuard:latest
+#1628881809
+docker images ls
+#1628881811
+docker images 
+#1628881830
+docker system prune -a
+#1628881853
+docker run --rm laspavel/kuard
+#1628881880
+docker ps -a
+#1628881895
+docker run --rm -p 8080:8080 laspavel/kuard
+#1628881933
+ls - la
+#1628882947
+history
