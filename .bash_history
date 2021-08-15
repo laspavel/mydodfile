@@ -5795,3 +5795,73 @@ docker run --rm -p 8080:8080 laspavel/kuard
 ls - la
 #1628882947
 history
+#1628963911
+2
+#1628964556
+ansible-playbook -i inventory.ini run1.yml 
+#1628964431
+winbox
+#1628964582
+ansible-playbook -i inventory.ini run1.yml --ask-pass
+#1628964714
+ssh root@192.168.88.65
+#1628963162
+mc
+#1628964745
+ssh root@192.168.88.65
+#1628964880
+yum install python3-apt
+#1628964883
+sudo yum install python3-apt
+#1628964897
+ansible-playbook -i inventory.ini run1.yml --ask-pass
+#1628965196
+mc
+#1628965267
+ansible-playbook -i inventory.ini run1.yml --ask-pass
+#1628966424
+ssh root@192.168.88.65
+#1629015425
+ssh root@192.168.88.65
+#1629015708
+./balenaEtcher-1.5.116-x64.AppImage 
+#1629016551
+ssh root@192.168.88.65
+#1629016580
+mc
+#1629016588
+mc
+#1629015650
+mc
+#1629016851
+ssh admin@mo
+#1629018600
+mc
+#1629018867
+ssh admin@mo
+#1629019059
+ssh admin@mo
+#1629043245
+ssh root@mo
+#1629044330
+ssh root@mo
+#1629044407
+ansible-playbook -i inventory.ini run1.yml --ask-pass
+#1629044584
+ssh root@mo
+#1629044367
+mc
+#1629044633
+ssh root@mo
+#1629046316
+....
+#1629046319
+...
+#1629046328
+cd M/Orange-PiPlus2E/
+#1629046330
+./balenaEtcher-1.5.116-x64.AppImage 
+#1629046638
+ssh root@mo
+#1629046649
+mc
