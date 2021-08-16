@@ -5865,3 +5865,105 @@ cd M/Orange-PiPlus2E/
 ssh root@mo
 #1629046649
 mc
+#1629046688
+ssh root@mo
+#1629048859
+ssh root@mo
+#1629051444
+ssh root@mo
+#1629051473
+..
+#1629051480
+cd Projects/M/Orange-PiPlus2E/
+#1629051822
+git status
+#1629051825
+tig
+#1629051833
+git add .
+#1629051840
+git commit -a -m "Add LICENSE"
+#1629051845
+git push origin master
+#1629051482
+./balenaEtcher-1.5.116-x64.AppImage 
+#1629051882
+./balenaEtcher-1.5.116-x64.AppImage 
+#1629051901
+./balenaEtcher-1.5.116-x64.AppImage 
+#1629051935
+./balenaEtcher-1.5.116-x64.AppImage 
+#1629052160
+ssh root@mo
+#1629052191
+ssh root@mo
+#1629086285
+ssh root@mo
+#1629088665
+ssh root@mo
+#1629088926
+./balenaEtcher-1.5.116-x64.AppImage 
+#1629088955
+./balenaEtcher-1.5.116-x64.AppImage 
+#1629089589
+mc
+#1629089594
+_
+#1629089639
+ssh admin@mo
+#1629091814
+ssh admin@mo
+#1629092403
+ansible-playbook -i inventory.ini run1.yml --ask-pass
+#1629092502
+ssh admin@mo
+#1629088918
+mc
+#1629092566
+ansible-playbook -i inventory.ini run1.yml --ask-pass
+#1629092584
+cd Projects/M/GlobalUpdate2/
+#1629092586
+ansible-playbook -i inventory.ini run1.yml --ask-pass
+#1629092694
+mc
+#1629095664
+bc -l
+#1629108669
+ssh admin@mo
+#1629092740
+ansible-playbook -i inventory.ini run1.yml --ask-pass
+#1629112389
+ansible-playbook -i inventory.ini run1.yml --ask-pass
+#1629116970
+ansible-playbook -i inventory.ini run1.yml --ask-pass
+#1629119412
+ansible-playbook -i inventory.ini run1.yml --ask-pass
+#1629108675
+ssh mo
+#1629120882
+ansible-playbook -i inventory.ini run1.yml --ask-pass
+#1629121616
+ssh admin@mo
+#1629092697
+mc
+#1629121706
+ssh admin@mo
+#1629121876
+ssh root@mo
+#1629122072
+ssh root@mo
+#1629122294
+ssh root@mo
+#1629123388
+ssh root@mo
+#1629129969
+ssh mo
+#1629130119
+ssh mo
+#1629130276
+ssh mo
+#1629130279
+ssh mo
+#1629130438
+ssh mo
