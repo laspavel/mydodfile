@@ -5967,3 +5967,93 @@ ssh mo
 ssh mo
 #1629130438
 ssh mo
+#1629130591
+ssh mo
+#1629134734
+ssh mo
+#1629135390
+...
+#1629135393
+cd M/Orange-PiPlus2E/
+#1629135395
+./balenaEtcher-1.5.116-x64.AppImage 
+#1629135800
+ssh mo
+#1629135815
+ssh mo
+#1629136444
+ssh mo
+#1629136457
+ьс
+#1629140254
+tig
+#1629174005
+git status
+#1629174078
+git status
+#1629174087
+tig
+#1629174173
+git commit -a -m "Del melofone-cron-PlayerRun"
+#1629174179
+autotag 
+#1629174187
+git push origin master
+#1629174192
+git push --tags
+#1629174196
+tig
+#1629174286
+./build.sh
+#1629173995
+mc
+#1629174346
+ssh admin@mo
+#1629174853
+ssh admin@mo
+#1629178093
+ssh assort
+#1629178650
+ssh -f -N -R 2222:192.168.88.253:22 root@assort
+#1629178670
+ssh -f -N -R 2222:192.168.88.253:22 root@assort
+#1629178699
+ssh -p 2222 assort
+#1629178705
+ssh -p2222 assort
+#1629178676
+ssh -N -R 2222:192.168.88.253:22 root@assort
+#1629178727
+ssh -N -R 2222:192.168.88.253:22 root@assort
+#1629178917
+ssh -f -N -R 2222:192.168.88.253 root@assort
+#1629178952
+ssh -f -N -R 2222:192.168.88.253:22 root@assort
+#1629178965
+ssh -p2222 assort
+#1629178980
+ssh  assort
+#1629179025
+w
+#1629179041
+ps -aux | grep ssh
+#1629179053
+kill -9 287270
+#1629179055
+ps -aux | grep ssh
+#1629211109
+docker run haproxy:2.2-alpine
+#1629211128
+docker ps -a
+#1629212360
+3
+#1629212905
+ip a
+#1629213008
+ansible-galaxy init docker-haproxy
+#1629213026
+ansible-galaxy init docker-haproxy
+#1629213033
+ansible-galaxy init docker-haproxy
+#1629213044
+ansible-galaxy init docker-haproxy
