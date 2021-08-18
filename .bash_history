@@ -6057,3 +6057,151 @@ ansible-galaxy init docker-haproxy
 ansible-galaxy init docker-haproxy
 #1629213044
 ansible-galaxy init docker-haproxy
+#1629222179
+OA
+#1629222783
+ansible-playbook -i inventory.ini example.yml 
+#1629222848
+ansible-playbook -i inventory.ini example.yml 
+#1629222908
+ansible-playbook -i inventory.ini example.yml 
+#1629222914
+ansible-playbook -i inventory.ini example.yml  --ask-pass
+#1629222978
+ansible-playbook -i inventory.ini example.yml  --ask-pass
+#1629223600
+ansible-playbook -i inventory.ini example.yml  --ask-pass
+#1629223851
+ansible-playbook -i inventory.ini example.yml  --ask-pass
+#1629223978
+ansible-playbook -i inventory.ini example.yml  --ask-pass
+#1629225751
+ssh root@192.168.88.165
+#1629225823
+ansible-playbook -i inventory.ini example.yml  --ask-pass
+#1629225951
+ssh root@192.168.88.165
+#1629225973
+ssh root@192.168.88.28
+#1629225994
+ssh root@192.168.88.29
+#1629210466
+mc
+#1629226170
+ssh root@192.168.88.34
+#1629226250
+ssh root@192.168.88.165
+#1629226311
+ssh root@192.168.88.34
+#1629226373
+ssh root@192.168.88.34
+#1629226382
+ssh root@192.168.88.165
+#1629225788
+ssh root@192.168.88.165
+#1629226457
+[1~
+#1629227357
+ansible-playbook -i inventory.ini example.yml  --ask-pass
+#1629228250
+ssh root@192.168.88.27
+#1629228341
+OB
+#1629228607
+git clone git@github.com:laspavel/keepalived_ha_docker.git
+#1629228630
+git add .
+#1629228638
+git commit -a -m "Init repo"
+#1629228656
+grep -rn "atb"
+#1629228892
+git clone git@github.com:laspavel/keepalived_ha_docker.git
+#1629228908
+grep -rn "atb"
+#1629228915
+git add .
+#1629228918
+git commit -a -m "Init repo"
+#1629228921
+grep -rn "atb"
+#1629228931
+git push origin master
+#1629229159
+ansible-playbook -i inventory.ini example.yml  --ask-pass
+#1629229276
+ansible-playbook -i inventory.ini example.yml  --ask-pass
+#1629229283
+ansible-playbook -i inventory.ini example.yml  --ask-pass
+#1629230167
+ssh root@192.168.88.165
+#1629230462
+git status
+#1629230468
+git commit -a -m "Fix 1"
+#1629230471
+git push origin master
+#1629232264
+bc -l
+#1629260363
+docker ps -a
+#1629260612
+/bin/python /home/laspavel/Projects/smartXTeam/cmdbix/app/main.py
+#1629260712
+/bin/python /home/laspavel/Projects/smartXTeam/cmdbix/app/main.py
+#1629260810
+/bin/python /home/laspavel/Projects/smartXTeam/cmdbix/app/1.py
+#1629260855
+/bin/python /home/laspavel/Projects/smartXTeam/cmdbix/app/1.py
+#1629260865
+/bin/python /home/laspavel/Projects/smartXTeam/cmdbix/app/1.py
+#1629261078
+/bin/python /home/laspavel/Projects/smartXTeam/cmdbix/app/1.py
+#1629262385
+/bin/python /home/laspavel/Projects/smartXTeam/cmdbix/app/1.py
+#1629262493
+/bin/python /home/laspavel/Projects/smartXTeam/cmdbix/app/1.py
+#1629262935
+/bin/python /home/laspavel/Projects/smartXTeam/cmdbix/app/1.py
+#1629263580
+/bin/python /home/laspavel/Projects/smartXTeam/cmdbix/app/1.py
+#1629264704
+/bin/python /home/laspavel/Projects/smartXTeam/cmdbix/app/1.py
+#1629264717
+/bin/python /home/laspavel/Projects/smartXTeam/cmdbix/app/1.py
+#1629264959
+/bin/python /home/laspavel/Projects/1.py
+#1629264040
+docker-compose up --build
+#1629265258
+docker-compose up --build
+#1629266276
+git status
+#1629266292
+git commit -a -m "Add zapi tag sync"
+#1629266297
+git push origin master
+#1629266811
+git status
+#1629266819
+git commit -a -m "Fix 1"
+#1629266823
+git push origin master
+#1629267602
+tig
+#1629267618
+git commit -a -m "Fix 2"
+#1629267619
+git push origin master
+#1629268041
+tig
+#1629268406
+git status
+#1629268410
+git commit -a -m "Fix 3"
+#1629268412
+git push origin master
+#1629266304
+ssh assort
+#1629264008
+mc
