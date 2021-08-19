@@ -6205,3 +6205,71 @@ git push origin master
 ssh assort
 #1629264008
 mc
+#1629293021
+d_python3 
+#1629317676
+ьс
+#1629317709
+docker-compose up -d --build
+#1629317759
+docker ps -a
+#1629317775
+docker logs -f tz-cmdbix-latest
+#1629317787
+docker-compose up -d --build
+#1629317791
+docker logs -f tz-cmdbix-latest
+#1629320401
+git status
+#1629320403
+tig
+#1629320427
+git status
+#1629320429
+tig
+#1629320455
+git commit -a -m "Add tags fix"
+#1629320459
+git push origin master
+#1629376808
+git today
+#1629376825
+git s
+#1629376827
+git s
+#1629376831
+git status -s
+#1629376862
+git yesterday
+#1629376959
+??
+#1629376980
+ipinfo 212.1.84.42
+#1629377307
+ccc 234+34
+#1629377309
+c 234+34
+#1629377384
+git_branch
+#1629377406
+parse_git_branch 
+#1629377414
+git branch
+#1629377488
+ssh_search assort
+#1629378138
+sshhosts assort
+#1629378143
+sshhosts 
+#1629378184
+sshhosts 
+#1629379370
+git log --pretty=oneline -n 20 --graph --abbrev-commit
+#1629379403
+git l
+#1629379471
+git shortlog --summary --numbered
+#1629379488
+git shortlog --summary --numbered
+#1629387031
+mc

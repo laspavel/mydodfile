@@ -18,16 +18,11 @@ export PATH
 # User specific aliases and functions
 
 ipinfo() { curl ipinfo.io/$1; echo "";} 
-
-function ??() { echo $1 | bc -l; } #calc
-
+c() { echo $1 | bc -l;} 
 parse_git_branch() {
      git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/(\1)/'
 }
-
-
-function assh { grep "$1" ~/.ssh/config ~/.ssh/config.d/* -A 7 -B 7 | sed -n '/#####_BEGIN_SECTION_#####/,/#####_END_SECTION_#####/p';}
-export -f assh
+ssh_search() { grep "$1" ~/.ssh/config ~/.ssh/config.d/* -A 7 -B 7 | sed -n '/#####_BEGIN_SECTION_#####/,/#####_END_SECTION_#####/p';}
 
 ## load ssh autocompletion
 _ssh() 
@@ -131,7 +126,6 @@ alias most='du -hsx * | sort -rh | head -10'
 # Utils from Internet
 alias myip="wget -qO - eth0.me"
 alias myip2="curl icanhazip.com"
-alias t='.Telegram/Telegram &'
 alias winbox='wine ~/.wine/drive_c/winbox.exe'
 alias pogoda="curl wttr.in/Dnepr"
 

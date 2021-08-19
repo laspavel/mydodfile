@@ -8,7 +8,7 @@ window-width=540
 [com/github/johnfactotum/Foliate/window-state]
 fullscreen=false
 height=640
-last-file='/home/laspavel/Все английские времена в одной простой схеме (сокращённая версия).fb2'
+last-file='/home/laspavel/Tsormudyan_Vtorogo_shansa_ne_budet_1_Kogda_zaviduyut_mertvyim_bcc2e4_174636_b9.fb2.zip'
 maximized=false
 width=960
 
@@ -540,7 +540,7 @@ workspaces-only-on-primary=false
 locations=@av []
 
 [org/gnome/software]
-check-timestamp=int64 1629257116
+check-timestamp=int64 1629350559
 download-updates=false
 download-updates-notify=false
 first-run=false
@@ -585,7 +585,7 @@ sort-column='name'
 sort-directories-first=true
 sort-order='ascending'
 type-format='category'
-window-position=(422, 65)
+window-position=(2298, 151)
 window-size=(1080, 677)
 
 [org/virt-manager/virt-manager]
