@@ -8,7 +8,7 @@ window-width=540
 [com/github/johnfactotum/Foliate/window-state]
 fullscreen=false
 height=640
-last-file='/home/laspavel/Tsormudyan_Vtorogo_shansa_ne_budet_1_Kogda_zaviduyut_mertvyim_bcc2e4_174636_b9.fb2.zip'
+last-file='/tmp/_dc404692565/Simonenko_God_2077-y_1_God_2077-y_00321a_530477_8d.fb2'
 maximized=false
 width=960
 
@@ -66,7 +66,7 @@ show-weekdate=true
 
 [org/gnome/desktop/input-sources]
 current=uint32 0
-mru-sources=[('xkb', 'ru'), ('xkb', 'us'), ('xkb', 'ua')]
+mru-sources=[('xkb', 'us'), ('xkb', 'ru'), ('xkb', 'ua')]
 sources=[('xkb', 'us'), ('xkb', 'ru'), ('xkb', 'ua')]
 xkb-options=['lv3:ralt_switch', 'grp:shift_caps_toggle']
 
@@ -540,7 +540,7 @@ workspaces-only-on-primary=false
 locations=@av []
 
 [org/gnome/software]
-check-timestamp=int64 1629350559
+check-timestamp=int64 1629432585
 download-updates=false
 download-updates-notify=false
 first-run=false
@@ -585,8 +585,8 @@ sort-column='name'
 sort-directories-first=true
 sort-order='ascending'
 type-format='category'
-window-position=(2298, 151)
-window-size=(1080, 677)
+window-position=(2342, 112)
+window-size=(1077, 669)
 
 [org/virt-manager/virt-manager]
 manager-window-height=550
