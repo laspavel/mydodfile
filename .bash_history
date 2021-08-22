@@ -6275,3 +6275,11 @@ git shortlog --summary --numbered
 mc
 #1629436975
 .
+#1629650310
+curl https://ipinfo.io/json
+#1629650339
+winbox
+#1629650430
+ls -la
+#1629651145
+nano .bashrc 
