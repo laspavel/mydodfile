@@ -6283,3 +6283,53 @@ winbox
 ls -la
 #1629651145
 nano .bashrc 
+#1629654194
+man ssh-copy-id 
+#1629656189
+mc
+#1629656206
+sudo -i
+#1629657606
+ssh google.com
+#1629657615
+ssh 212.1.84.42
+#1629657621
+ssh 212.1.84.40
+#1629657636
+ssh mail.alkar.net
+#1629657651
+ssh din1.alkar.net
+#1629657719
+ssh dealer-showtechnica 
+#1629657732
+ssh ut-gw.de
+#1629657737
+ssh ut-mail01-de 
+#1629657770
+ssh atbmarket.com
+#1629657782
+ssh www.atbmarket.com
+#1629657831
+ssh habr.com
+#1629657845
+ssh gate.office.com
+#1629657859
+ssh etp.atbmarket.com
+#1629657866
+ssh -vvv etp.atbmarket.com
+#1629657908
+mc
+#1629657943
+ssh rozetka.ua
+#1629657948
+ssh -vvv rozetka.ua
+#1629657980
+ssh zealstep.com
+#1629657993
+ssh -vvv zealstep.com
+#1629703014
+winbox
+#1629703489
+ssh stroyplo 
+#1629714706
+winbox
