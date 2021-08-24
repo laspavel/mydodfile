@@ -6333,3 +6333,15 @@ winbox
 ssh stroyplo 
 #1629714706
 winbox
+#1629738546
+tig
+#1629820323
+chmod +x domain.discovery.sh 
+#1629820332
+./domain.discovery.sh 127.0.0.1
+#1629820348
+./domain.discovery.sh 127.0.0.1 getalldomains
+#1629821159
+chmod +x getdomain.sh 
+#1629821197
+./getdomain.sh 127.0.0.1 gloria-pizza.ru getdomainend
