@@ -73,11 +73,11 @@ function extract() {
      fi 
 }
 
-#ssh() {
-#tmux rename-window "$*"
-#command ssh "$@"
-#tmux rename-window "bash"
-#}
+ssh() {
+tmux rename-window "$*"
+command ssh "$@"
+tmux rename-window "bash"
+}
 
 
 # some more ls aliases

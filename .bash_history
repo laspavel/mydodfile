@@ -6345,3 +6345,155 @@ chmod +x domain.discovery.sh
 chmod +x getdomain.sh 
 #1629821197
 ./getdomain.sh 127.0.0.1 gloria-pizza.ru getdomainend
+#1629825900
+docker ps -a
+#1629825924
+docker exec -it tz-zapi_zabbix-server_1 bash
+#1629825965
+docker-compose down
+#1629825972
+docker-compose up -d --build
+#1629826106
+docker exec -it tz-zapi_zabbix-server_1 bash
+#1629827402
+docker ps -a
+#1629827587
+df -h
+#1629827651
+docker-compose down
+#1629827655
+docker-compose up
+#1629827855
+docker-compose up -d
+#1629827859
+docker ps -a
+#1629827940
+docker logs -f zabbix-agent2
+#1629827998
+firewall-cmd --list-all
+#1629828088
+docker-compose down
+#1629828094
+sudo -i
+#1629818007
+mc
+#1629828121
+sudo -i
+#1629828168
+docker logs -f zabbix-agent2
+#1629828772
+git init
+#1629828801
+git add .
+#1629828808
+git remote add origin git@github.com:SmartXTeam/DomainDiscovery.git
+#1629828814
+git commit -a -m "Init repo"
+#1629828818
+git push origin master
+#1629829544
+docker exec -it tz-zapi_zabbix-server_1 bash
+#1629830019
+docker-compose down
+#1629830025
+docker-compose up -d
+#1629830090
+docker-compose down
+#1629830138
+docker-compose up -d
+#1629832670
+git status
+#1629832674
+git add .
+#1629832688
+git commit -a -m "Add symlinks"
+#1629832693
+git push origin master
+#1629833317
+git status
+#1629833594
+git commit -a -m "Fix error 1"
+#1629833596
+git push origin master
+#1629834071
+git commit -a -m "Fix error 2"
+#1629834077
+git push origin master
+#1629834412
+git commit -a -m "Fix error 3"
+#1629834414
+git push origin master
+#1629835292
+git status
+#1629835296
+git commit -a -m "Fix error 4"
+#1629835297
+git push origin master
+#1629864031
+ssh m
+#1629867172
+yum update flameshot
+#1629867174
+sudo yum update flameshot
+#1629867257
+cd ~/tmp
+#1629867263
+rpm -i flameshot-0.10.1-1-lp15.2.x86_64.rpm 
+#1629867290
+yum install libQt5Core5 libQt5Svg5  libqt5-qttools
+#1629867292
+sudo yum install libQt5Core5 libQt5Svg5  libqt5-qttools
+#1629867358
+sudo dnf install qt5-*
+#1629867479
+sudo yum install libQt5Core5 libQt5Svg5  libqt5-qttools
+#1629867496
+sudo yum install qt5-qttools-common
+#1629867505
+rpm -i flameshot-0.10.1-1-lp15.2.x86_64.rpm 
+#1629867507
+sudo rpm -i flameshot-0.10.1-1-lp15.2.x86_64.rpm 
+#1629867511
+cd ~/tmp
+#1629867512
+sudo rpm -i flameshot-0.10.1-1-lp15.2.x86_64.rpm 
+#1629867565
+sudo dnf install flameshot
+#1629867672
+sudo dnf remove flameshot
+#1629867687
+dnf install gcc-c++ cmake qt5-devel qt5-qtbase-devel qt5-linguist
+#1629867689
+sudo dnf install gcc-c++ cmake qt5-devel qt5-qtbase-devel qt5-linguist
+#1629867721
+sudo dnf install qt5-qtbase qt5-qtsvg-devel
+#1629867741
+sudo rpm -i flameshot-0.10.1-1-lp15.2.x86_64.rpm 
+#1629867834
+ls -la
+#1629867839
+chmod +x Flameshot-0.10.1.x86_64.AppImage 
+#1629867842
+./Flameshot-0.10.1.x86_64.AppImage 
+#1629867949
+mc
+#1629867953
+sudo mc
+#1629868136
+/opt/flameshot/flameshot.AppImage gui
+#1629868142
+/opt/flameshot/flameshot.AppImage
+#1629869570
+ssh m
+#1629873099
+ps -aux | grep teams
+#1629873103
+ps -aux | grep teams | wc -l
+#1629873441
+ps -aux | grep teleg | wc -l
+#1629873446
+ps -aux | grep telegram | wc -l
+#1629873448
+ps -aux | grep telegram
+#1629909782
+./build.sh
