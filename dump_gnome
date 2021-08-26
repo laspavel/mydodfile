@@ -38,7 +38,7 @@ window-position=(1920, 0)
 window-size=(1920, 1006)
 
 [org/gnome/control-center]
-last-panel='keyboard'
+last-panel='sound'
 
 [org/gnome/desktop/app-folders]
 folder-children=['Utilities', 'YaST']
@@ -540,7 +540,7 @@ workspaces-only-on-primary=false
 locations=@av []
 
 [org/gnome/software]
-check-timestamp=int64 1629864058
+check-timestamp=int64 1629957267
 download-updates=false
 download-updates-notify=false
 first-run=false
@@ -585,7 +585,7 @@ sort-column='name'
 sort-directories-first=true
 sort-order='ascending'
 type-format='category'
-window-position=(335, 163)
+window-position=(2342, 112)
 window-size=(1077, 669)
 
 [org/virt-manager/virt-manager]

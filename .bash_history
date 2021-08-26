@@ -6497,3 +6497,23 @@ ps -aux | grep telegram | wc -l
 ps -aux | grep telegram
 #1629909782
 ./build.sh
+#1629977207
+ssh 192.168.88.65
+#1629977214
+ssh root@192.168.88.65
+#1629977964
+ьс
+#1629978084
+./build.sh
+#1629978118
+./melofone_client-offline-atb-1.2.718-armhf.run
+#1629978141
+ps -aux | grep melo
+#1629994659
+./melofone_client-offline-atb-1.2.718-armhf.run
+#1629994671
+ps -aux | grep me
+#1629994673
+ps -aux | grep melo
+#1629994873
+v docker-compose.yml
