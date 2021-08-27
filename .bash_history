@@ -6517,3 +6517,13 @@ ps -aux | grep me
 ps -aux | grep melo
 #1629994873
 v docker-compose.yml
+#1629994666
+mc
+#1629999943
+./build_patch.sh
+#1630000237
+[20~
+#1630000900
+ssh stroyplo 
+#1630048946
+ssh stroyplo
