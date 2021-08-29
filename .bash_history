@@ -6527,3 +6527,79 @@ mc
 ssh stroyplo 
 #1630048946
 ssh stroyplo
+#1630088462
+history | grep ln
+#1630088464
+history | grep ls
+#1630088553
+ls -la
+#1630088583
+ln -s cert.discovery.sh  cert.discovery
+#1630088734
+ln -s getcert.sh  cert.get
+#1630092146
+git status
+#1630092150
+git add .
+#1630092168
+git commit -a -m "Add cert discovery"
+#1630092175
+git push origin master
+#1630092251
+journalctl -xe
+#1630176028
+git status
+#1630176034
+git commit -a -m "Fix 1"
+#1630176038
+git push origin master
+#1630177340
+ешп
+#1630177342
+tig
+#1630177468
+git remote rm origin
+#1630177477
+git remote add origin git@github.com:SmartXTeam/ZabbixDiscovery.git
+#1630177481
+git remote -v
+#1630232416
+mc
+#1630234012
+/bin/python /home/laspavel/Projects/stroyplo4/ImportFromRozetka/src/main.py
+#1630234027
+pip3 install pymysql
+#1630234031
+/bin/python /home/laspavel/Projects/stroyplo4/ImportFromRozetka/src/main.py
+#1630234853
+/bin/python /home/laspavel/Projects/stroyplo4/ImportFromRozetka/src/rozapi.py
+#1630234864
+/bin/python /home/laspavel/Projects/stroyplo4/ImportFromRozetka/src/main.py
+#1630234951
+/bin/python /home/laspavel/Projects/stroyplo4/ImportFromRozetka/src/rozapi.py
+#1630234955
+/bin/python /home/laspavel/Projects/stroyplo4/ImportFromRozetka/src/main.py
+#1630235000
+/bin/python /home/laspavel/Projects/stroyplo4/ImportFromRozetka/src/rozapi.py
+#1630235005
+/bin/python /home/laspavel/Projects/stroyplo4/ImportFromRozetka/src/main.py
+#1630235230
+/bin/python /home/laspavel/Projects/stroyplo4/ImportFromRozetka/src/rozapi.py
+#1630235236
+/bin/python /home/laspavel/Projects/stroyplo4/ImportFromRozetka/src/main.py
+#1630235321
+/bin/python /home/laspavel/Projects/stroyplo4/ImportFromRozetka/src/rozapi.py
+#1630235325
+/bin/python /home/laspavel/Projects/stroyplo4/ImportFromRozetka/src/main.py
+#1630235393
+/bin/python /home/laspavel/Projects/stroyplo4/ImportFromRozetka/src/rozapi.py
+#1630235399
+/bin/python /home/laspavel/Projects/stroyplo4/ImportFromRozetka/src/main.py
+#1630252245
+ssh stroyplo 
+#1630252390
+cat LostCalls.php 
+#1630253301
+/bin/python /home/laspavel/Projects/stroyplo4/ImportFromRozetka/src/main.py
+#1630256307
+mc
