@@ -6603,3 +6603,17 @@ cat LostCalls.php
 /bin/python /home/laspavel/Projects/stroyplo4/ImportFromRozetka/src/main.py
 #1630256307
 mc
+#1630252336
+mc
+#1630257511
+ssh stroyplo 
+#1630259769
+./main.py
+#1630256440
+ssh stroyplo 
+#1630260434
+ssh stroyplo 
+#1630260424
+ssh stroyplo 
+#1630341629
+sudo dnf install simplescreenrecorder
