@@ -223,7 +223,7 @@ background-color='rgb(0,0,0)'
 use-background-color=true
 
 [org/gnome/evince/default]
-window-ratio=(1.7831932773109245, 0.52025799094893632)
+window-ratio=(1.7823664989013497, 0.52025799094893632)
 
 [org/gnome/evolution-data-server]
 migrated=true
@@ -540,7 +540,7 @@ workspaces-only-on-primary=false
 locations=@av []
 
 [org/gnome/software]
-check-timestamp=int64 1630297214
+check-timestamp=int64 1630384076
 download-updates=false
 download-updates-notify=false
 first-run=false
@@ -585,7 +585,7 @@ sort-column='name'
 sort-directories-first=true
 sort-order='ascending'
 type-format='category'
-window-position=(347, 78)
+window-position=(422, 121)
 window-size=(1077, 669)
 
 [org/virt-manager/virt-manager]

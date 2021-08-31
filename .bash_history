@@ -6617,3 +6617,31 @@ ssh stroyplo
 ssh stroyplo 
 #1630341629
 sudo dnf install simplescreenrecorder
+#1630384924
+winbox
+#1630385020
+./build.sh
+#1630384950
+ssh admin@192.168.88.65
+#1630386023
+winbox
+#1630386139
+ssh admin@192.168.88.65
+#1630387054
+lynx
+#1630388341
+cat 1111111 
+#1630389313
+[6~
+#1630384965
+mc
+#1630389473
+tig
+#1630389524
+git status
+#1630388119
+mc
+#1630390056
+sudo mc
+#1630390087
+git clone git@github.com:stroyploshadka/stroyplo4.git
