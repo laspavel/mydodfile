@@ -6645,3 +6645,73 @@ mc
 sudo mc
 #1630390087
 git clone git@github.com:stroyploshadka/stroyplo4.git
+#1630429375
+git status
+#1630429379
+git add .
+#1630429389
+git commit -a -m "Add rozapi"
+#1630429395
+git push origin master
+#1630431127
+ssh stroyplo
+#1630518042
+journalctl -xe
+#1630519126
+ssh assort
+#1630519157
+winbox
+#1630520126
+.
+#1630520115
+mc
+#1630555140
+git init
+#1630555143
+git add .
+#1630555151
+git remote add origin git@github.com:laspavel/slurm-school-k8s.git
+#1630555159
+git commit -a -m "Init repo"
+#1630555164
+git push origin master
+#1630555298
+git init
+#1630555302
+git add .
+#1630555320
+git add remote origin git@github.com:laspavel/slurm-school-k8s.git
+#1630555329
+git remote add origin git@github.com:laspavel/slurm-school-k8s.git
+#1630555337
+git commit -a -m "Init repo"
+#1630555343
+git push origin master
+#1630555362
+git remote rn oriign
+#1630555365
+git remote rn origin
+#1630555368
+git remote rm origin
+#1630555371
+git remote -v
+#1630555385
+git remote add origin git@github.com:laspavel/postgres-dba.git
+#1630555388
+git push origin master
+#1630555451
+unrar x *.rar
+#1630555472
+unrar x 1.Материалы.rar 
+#1630555476
+unrar x 2.Материалы.rar 
+#1630555479
+unrar x 3.Материалы.rar 
+#1630555739
+git status
+#1630555742
+git add .
+#1630555751
+git commit -a -m "Add Other1"
+#1630555758
+git push origin master
