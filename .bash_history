@@ -6715,3 +6715,29 @@ git add .
 git commit -a -m "Add Other1"
 #1630555758
 git push origin master
+#1630603077
+bc -l
+#1630611158
+ssh m
+#1630611166
+winbox
+#1630604082
+ssh stroyplo 
+#1630612435
+nano mysql_handler.py
+#1630612511
+git status
+#1630612518
+git commit -a -m "Fix error"
+#1630612522
+git push origin master
+#1630612831
+O
+#1630640227
+winbox
+#1630642743
+ьс
+#1630639911
+mc
+#1630646065
+sudo poweroff
