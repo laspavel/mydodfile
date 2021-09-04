@@ -6741,3 +6741,9 @@ winbox
 mc
 #1630646065
 sudo poweroff
+#1630692143
+winbox
+#1630742999
+htop
+#1630743027
+lsblk
