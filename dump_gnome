@@ -540,13 +540,13 @@ workspaces-only-on-primary=false
 locations=@av []
 
 [org/gnome/software]
-check-timestamp=int64 1630728392
+check-timestamp=int64 1630816791
 download-updates=false
 download-updates-notify=false
 first-run=false
 install-timestamp=int64 1613421041
 online-updates-timestamp=int64 1621662286
-upgrade-notification-timestamp=int64 1630171210
+upgrade-notification-timestamp=int64 1630816776
 
 [org/gnome/system/location]
 enabled=false
@@ -585,7 +585,7 @@ sort-column='name'
 sort-directories-first=true
 sort-order='ascending'
 type-format='category'
-window-position=(2342, 112)
+window-position=(2333, 130)
 window-size=(1077, 669)
 
 [org/virt-manager/virt-manager]
