@@ -6747,3 +6747,25 @@ winbox
 htop
 #1630743027
 lsblk
+#1630864208
+systemctl status ssh
+#1630864209
+systemctl status sshd
+#1630864219
+netstat -tulpn
+#1630864243
+ip a
+#1630864546
+mc
+#1630864502
+ssh assort 
+#1630863570
+winbox
+#1630866155
+ssh-keygen -C laspavel-gw1 -f laspavel-gw1
+#1630866172
+cd ~
+#1630866173
+ssh-keygen -C laspavel-gw1 -f laspavel-gw1
+#1630866329
+cat laspavel-gw1
