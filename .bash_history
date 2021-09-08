@@ -6769,3 +6769,17 @@ cd ~
 ssh-keygen -C laspavel-gw1 -f laspavel-gw1
 #1630866329
 cat laspavel-gw1
+#1631078969
+./.gitkeep
+#1631083890
+.. 
+#1631083925
+docker-compose up --build
+#1631078449
+mc
+#1631084237
+sudo mc
+#1631084453
+docker-compose up --build
+#1631110833
+ssh stroyplo 
