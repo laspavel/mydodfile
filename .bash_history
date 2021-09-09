@@ -6783,3 +6783,131 @@ sudo mc
 docker-compose up --build
 #1631110833
 ssh stroyplo 
+#1631125833
+ьс
+#1631125951
+docker-compose down
+#1631125959
+docker-compose up --build
+#1631125995
+docker-compose down
+#1631126028
+docker-compose up --build
+#1631126141
+chmod -R 777 storage
+#1631126150
+docker-compose down
+#1631126159
+docker-compose up --build
+#1631126247
+sudo nano /etc/hosts
+#1631126266
+docker-compose down
+#1631126269
+docker-compose up --build
+#1631126439
+docker-compose down
+#1631126440
+docker-compose up --build
+#1631126887
+docker-compose down
+#1631127018
+docker-compose up --build
+#1631127052
+docker-compose down
+#1631125835
+mc
+#1631127109
+sudo mc
+#1631127125
+docker-compose down
+#1631127131
+cd oboisite/
+#1631127132
+docker-compose down
+#1631127136
+docker-compose up --build
+#1631127453
+git init
+#1631127466
+git remote add origin git@github.com:showtechnica/oboisite.git
+#1631127470
+git add .
+#1631127477
+git status
+#1631127535
+git add .
+#1631127536
+git status
+#1631127575
+git commit -a -m "Init repo"
+#1631127580
+git push origin master
+#1631127688
+git status
+#1631127691
+git add .
+#1631127697
+git commit -a -m "Fix 1"
+#1631127701
+git status
+#1631127708
+git push origin master
+#1631127727
+git status
+#1631127730
+[1~
+#1631127776
+git add .
+#1631127777
+git status
+#1631127788
+ls -la
+#1631127812
+git status
+#1631127815
+git add .
+#1631127835
+git status
+#1631127837
+git add .
+#1631127858
+git status
+#1631127870
+git add .
+#1631127871
+git status
+#1631127901
+git add .
+#1631127902
+git status
+#1631127911
+git commit -a -m "Fix 2"
+#1631127916
+git push origin master
+#1631155811
+wget kuhnya.atbmarket.com
+#1631155823
+systemctl restart NetworkManager
+#1631155827
+wget kuhnya.atbmarket.com
+#1631155835
+wget https://kuhnya.atbmarket.com
+#1631155871
+[05:45] Должанский Олег Анатольевич
+#1631155874
+wget https://kuhnya.atbmarket.com
+#1631157334
+wget https://kazka.atbmarket.com
+#1631157342
+systemctl restart NetworkManager
+#1631157347
+wget https://kazka.atbmarket.com
+#1631157365
+curl https://kazka.atbmarket.com
+#1631158669
+nano /etc/hosts
+#1631161337
+sudo nano /etc/hosts
+#1631190653
+mc
