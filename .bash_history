@@ -6911,3 +6911,17 @@ nano /etc/hosts
 sudo nano /etc/hosts
 #1631190653
 mc
+#1631208924
+./build.sh
+#1631209210
+./balenaEtcher-1.5.116-x64.AppImage 
+#1631209576
+mc
+#1631207550
+mc
+#1631210159
+./balenaEtcher-1.5.116-x64.AppImage 
+#1631211232
+mc
+#1631214839
+winbox
