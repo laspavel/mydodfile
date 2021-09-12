@@ -6925,3 +6925,21 @@ mc
 mc
 #1631214839
 winbox
+#1631421509
+bc -l 
+#1631454913
+ssh stroyplo \
+#1631462755
+git status
+#1631462764
+git commit -a -m "Fix 12.09.2021"
+#1631462768
+git push origin master
+#1631462775
+git remote -v
+#1631462792
+git remote rm origin
+#1631462804
+git remote add origin  git@github.com:stroyploshadka/tsb.git
+#1631462806
+git push origin master
