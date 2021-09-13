@@ -6943,3 +6943,25 @@ git remote rm origin
 git remote add origin  git@github.com:stroyploshadka/tsb.git
 #1631462806
 git push origin master
+#1631466153
+docker-compose down
+#1631466165
+docker-compose up -d
+#1631466559
+docker ps -a
+#1631466581
+docker-compose down
+#1631466610
+docker-compose up -d
+#1631466660
+docker-compose down
+#1631466677
+docker-compose up
+#1631466787
+ls -la
+#1631466797
+docker-compose down
+#1631466821
+ls -la
+#1631462651
+mc

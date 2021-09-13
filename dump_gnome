@@ -66,7 +66,7 @@ show-weekdate=true
 
 [org/gnome/desktop/input-sources]
 current=uint32 0
-mru-sources=[('xkb', 'ua'), ('xkb', 'us'), ('xkb', 'ru')]
+mru-sources=[('xkb', 'us'), ('xkb', 'ua'), ('xkb', 'ru')]
 sources=[('xkb', 'us'), ('xkb', 'ru'), ('xkb', 'ua')]
 xkb-options=['lv3:ralt_switch', 'grp:shift_caps_toggle']
 
@@ -540,7 +540,7 @@ workspaces-only-on-primary=false
 locations=@av []
 
 [org/gnome/software]
-check-timestamp=int64 1631421046
+check-timestamp=int64 1631504718
 download-updates=false
 download-updates-notify=false
 first-run=false
