@@ -6965,3 +6965,11 @@ docker-compose down
 ls -la
 #1631462651
 mc
+#1631623145
+ping supplier.atbmarket.com
+#1631623152
+traceroute supplier.atbmarket.com
+#1631625776
+traceroute supplier-dev.atbmarket.com
+#1631625786
+traceroute supplier.atbmarket.com
