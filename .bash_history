@@ -6975,3 +6975,37 @@ traceroute supplier-dev.atbmarket.com
 traceroute supplier.atbmarket.com
 #1631797383
 ssh stroyplo
+#1631959177
+docker ps -a
+#1631959189
+docker-compose up -d
+#1631959538
+docker ps -a
+#1631960337
+sudo nano /etc/hosts
+#1631960362
+ping oboitop.site
+#1631960949
+grep -rn "tab_sms"
+#1631962931
+grep -rn "$data['entry_ftp_hostname'] = $this->language->get('entry_ftp_hostname');"
+#1631962939
+grep -rn "entry_ftp_hostname"
+#1631964197
+git status
+#1631964258
+git commit -a -m "Add config_importorder_link"
+#1631964267
+git push origin master
+#1631964278
+git pull origin master
+#1631964288
+git push origin master
+#1631964292
+tig
+#1631966852
+2
+#1631967906
+grep -rn "obr.php"
+#1631972904
+docker ps -a
