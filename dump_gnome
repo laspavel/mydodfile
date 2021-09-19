@@ -8,7 +8,7 @@ window-width=540
 [com/github/johnfactotum/Foliate/window-state]
 fullscreen=false
 height=640
-last-file='/tmp/_dc404692565/Simonenko_God_2077-y_1_God_2077-y_00321a_530477_8d.fb2'
+last-file='/home/laspavel/Алкаев Олег. Расстрельная команда - royallib.com.fb2.zip'
 maximized=false
 width=960
 
@@ -540,13 +540,13 @@ workspaces-only-on-primary=false
 locations=@av []
 
 [org/gnome/software]
-check-timestamp=int64 1631944518
+check-timestamp=int64 1632061579
 download-updates=false
 download-updates-notify=false
 first-run=false
 install-timestamp=int64 1613421041
 online-updates-timestamp=int64 1621662286
-upgrade-notification-timestamp=int64 1631454729
+upgrade-notification-timestamp=int64 1632061574
 
 [org/gnome/system/location]
 enabled=false
@@ -585,7 +585,7 @@ sort-column='name'
 sort-directories-first=true
 sort-order='ascending'
 type-format='category'
-window-position=(2342, 112)
+window-position=(2268, 127)
 window-size=(1077, 669)
 
 [org/virt-manager/virt-manager]

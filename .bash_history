@@ -7009,3 +7009,23 @@ tig
 grep -rn "obr.php"
 #1631972904
 docker ps -a
+#1631989883
+mc
+#1631992748
+cd ..
+#1631992749
+cd .
+#1631992752
+..
+#1631992754
+git status
+#1631992831
+git add .
+#1631992832
+git status
+#1631992846
+git commit -a -m "Fix 18.09.2021"
+#1631992851
+git push origin master
+#1631972919
+docker exec -it oboisite-app bash
