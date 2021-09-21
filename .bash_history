@@ -7029,3 +7029,5 @@ git commit -a -m "Fix 18.09.2021"
 git push origin master
 #1631972919
 docker exec -it oboisite-app bash
+#1632209058
+bc -l
