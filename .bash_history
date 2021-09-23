@@ -7031,3 +7031,47 @@ git push origin master
 docker exec -it oboisite-app bash
 #1632209058
 bc -l
+#1632330723
+ьс
+#1632330747
+git clone git@github.com:vpu55/www.git
+#1632331048
+git status
+#1632331089
+git add .
+#1632331106
+git commit -a -m "Fix 22.09.2021"
+#1632331116
+git push origin master
+#1632331128
+tig
+#1632331190
+git reset --hard a944490c2b0a2a53b5ad96ebd96207bc6e85e95a
+#1632334655
+git status
+#1632334665
+git add .
+#1632334671
+git status
+#1632334681
+git commit -a -m "Fix 22.09.2021 - 2"
+#1632334685
+git push origin master
+#1632334717
+git clone git@github.com:vpu55/www.git
+#1632335052
+git status
+#1632335055
+git add .
+#1632335085
+git status
+#1632335100
+git commit -a -m "Fix 22.09.2021 - 2"
+#1632335105
+git push origin master
+#1632375055
+winbox
+#1632387493
+mc
+#1632391703
+ssh stroyplo 

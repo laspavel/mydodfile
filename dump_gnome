@@ -7,10 +7,10 @@ window-width=540
 
 [com/github/johnfactotum/Foliate/window-state]
 fullscreen=false
-height=640
-last-file='/home/laspavel/Алкаев Олег. Расстрельная команда - royallib.com.fb2.zip'
-maximized=false
-width=960
+height=1006
+last-file='/tmp/_dc1230506153/Алкаев Олег. Расстрельная команда - royallib.ru.fb2'
+maximized=true
+width=1920
 
 [com/github/maoschanz/drawing]
 last-active-shape='polygon'
@@ -540,7 +540,7 @@ workspaces-only-on-primary=false
 locations=@av []
 
 [org/gnome/software]
-check-timestamp=int64 1632281119
+check-timestamp=int64 1632368987
 download-updates=false
 download-updates-notify=false
 first-run=false
@@ -585,7 +585,7 @@ sort-column='name'
 sort-directories-first=true
 sort-order='ascending'
 type-format='category'
-window-position=(422, 121)
+window-position=(2342, 112)
 window-size=(1077, 669)
 
 [org/virt-manager/virt-manager]
