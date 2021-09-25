@@ -7075,3 +7075,145 @@ winbox
 mc
 #1632391703
 ssh stroyplo 
+#1632409321
+mc
+#1632453752
+sudo dnf install gnome-shell-extension-dash-to-dock
+#1632453840
+sudo dnf install gnome-shell-extension-dash-to-panel
+#1632453870
+gnome-shell-extension-tool 
+#1632453882
+gnome-shell-extension-installer 
+#1632453896
+gnome-shell-extension-installer --update
+#1632453955
+sudo reboot
+#1632454106
+hisrory
+#1632454196
+winbox 
+#1632454279
+sudo dnf -y install dnf-plugins-core
+#1632454293
+sudo dnf config-manager --add-repo https://dl.winehq.org/wine-builds/fedora/34/winehq.repo
+#1632454311
+sudo dnf -y install winehq-stable
+#1632454337
+sudo dnf -y install winehq-stable --allowerasing
+#1632454383
+winecfg
+#1632454438
+wget  https://raw.githubusercontent.com/Winetricks/winetricks/master/src/winetricks
+#1632454457
+chmod +x winetricks
+#1632454464
+sudo mv winetricks /usr/local/bin/
+#1632454470
+winetricks 
+#1632454478
+winbox
+#1632454497
+wine --version
+#1632454514
+sudo dnf -y install winehq-stable
+#1632454539
+wine64 --version
+#1632454563
+winbox
+#1632454544
+mc
+#1632454587
+winbox
+#1632455164
+cd tmp/
+#1632455171
+ll
+#1632455176
+chmod +x WinRAR561.exe 
+#1632455178
+./WinRAR561.exe 
+#1632455185
+wine64 WinRAR561.exe 
+#1632455383
+locate wine64
+#1632455399
+updatedb
+#1632455405
+sudo updatedb
+#1632455416
+locate wine64
+#1632455427
+mc
+#1632455304
+mc
+#1632455456
+sudo mc
+#1632455564
+winbox
+#1632506527
+sudo ./VentoyGUI.x86_64 
+#1632506582
+mount
+#1632506621
+mkfs.ntfs /dev/sdb1
+#1632506663
+mkfs.ntfs /run/media/laspavel/42AB-DFE8/
+#1632506674
+mkfs.ntfs /dev/sdb
+#1632506680
+mkfs.ntfs /dev/sdb1
+#1632506699
+umount /run/media/laspavel/42AB-DFE8 
+#1632506702
+mkfs.ntfs /dev/sdb1
+#1632506122
+./VentoyGUI.x86_64 
+#1632506927
+ssh stroyplo 
+#1632516010
+ис -д
+#1632516013
+bc -l
+#1632516296
+./VentoyGUI.x86_64 
+#1632516433
+./Ventoy2Disk.sh -i /dev/sdb
+#1632516450
+sudo ./Ventoy2Disk.sh -i /dev/sdb1
+#1632516456
+sudo ./Ventoy2Disk.sh -i /dev/sdb
+#1632516478
+sudo ./Ventoy2Disk.sh -i /dev/sdb1
+#1632516486
+sudo ./Ventoy2Disk.sh -i /dev/sdb
+#1632516495
+mount
+#1632516505
+umount /dev/sdb1
+#1632516508
+sudo ./Ventoy2Disk.sh -i /dev/sdb
+#1632516517
+sudo ./Ventoy2Disk.sh -l /dev/sdb
+#1632516546
+mc
+#1632516347
+mc
+#1632516713
+mount
+#1632516727
+sudo ./Ventoy2Disk.sh -l /dev/sdb
+#1632516733
+mc
+#1632516787
+sudo mc
+#1632516809
+sudo ./Ventoy2Disk.sh -l /dev/sdb
+#1632516847
+sudo ./Ventoy2Disk.sh -i /dev/sdb
+#1632516927
+mount
+#1632582370
+mc
+#1632582387
+sudo mc

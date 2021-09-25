@@ -126,7 +126,7 @@ alias most='du -hsx * | sort -rh | head -10'
 # Utils from Internet
 alias myip="wget -qO - eth0.me"
 alias myip2="curl icanhazip.com"
-alias winbox='wine ~/.wine/drive_c/winbox.exe'
+alias winbox='wine64 ~/.wine/drive_c/winbox.exe'
 alias pogoda="curl wttr.in/Dnepr"
 
 #open vscode
