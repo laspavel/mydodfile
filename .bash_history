@@ -7217,3 +7217,25 @@ mount
 mc
 #1632582387
 sudo mc
+#1632641049
+OB
+#1632641202
+[6~OA
+#1632641269
+.. 
+#1632641273
+git remote -v
+#1632641276
+tig
+#1632641326
+[6~OB
+#1632641361
+git remote -v
+#1632667250
+docker ps -a
+#1632668639
+docker-compose down
+#1632668645
+docker-compose up -d
+#1632674801
+docker ps -a

@@ -549,7 +549,7 @@ download-updates-notify=false
 first-run=false
 install-timestamp=int64 1613421041
 online-updates-timestamp=int64 1621662286
-update-notification-timestamp=int64 1632586028
+update-notification-timestamp=int64 1632672278
 upgrade-notification-timestamp=int64 1632061574
 
 [org/gnome/system/location]
