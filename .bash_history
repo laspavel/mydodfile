@@ -7239,3 +7239,23 @@ docker-compose down
 docker-compose up -d
 #1632674801
 docker ps -a
+#1632674824
+docker exec -it oboisite-app bash
+#1632668615
+mc
+#1632685001
+docker exec -it oboisite-app bash
+#1632687063
+git status
+#1632687304
+docker exec -it oboisite-app bash
+#1632687331
+git status
+#1632687355
+git add .
+#1632687379
+git commit -a -m "Add import Orders - 2"
+#1632687384
+git pusj origin master
+#1632687395
+git status
