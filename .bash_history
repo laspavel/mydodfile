@@ -7259,3 +7259,19 @@ git commit -a -m "Add import Orders - 2"
 git pusj origin master
 #1632687395
 git status
+#1632763099
+docker ps -a
+#1632763152
+docker-compose down
+#1632763160
+docker-compose up -d
+#1632763513
+docker exec -it oboisite-app bash
+#1632804629
+docker ps -a
+#1632804664
+docker-compose dpwn
+#1632804667
+docker-compose down
+#1632804672
+docker-compose up -d
