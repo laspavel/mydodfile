@@ -7275,3 +7275,47 @@ docker-compose dpwn
 docker-compose down
 #1632804672
 docker-compose up -d
+#1632814643
+bc -l
+#1632851643
+docker ps -a
+#1632851660
+docker exec -it oboisite-app bash
+#1632857894
+tig
+#1632857928
+git reset --hard 9db4c0980ec516807f99c3683f2e5dfda0844f45
+#1632858052
+OA
+#1632857974
+docker exec -it oboisite-app bash
+#1632859147
+git status
+#1632859151
+git add .
+#1632859160
+git commit -a -m "Fix errors"
+#1632859164
+git push origin master
+#1632806514
+docker exec -it oboisite-app bash
+#1632890079
+docker-compose down
+#1632890083
+docker-compose up -d
+#1632890558
+git status
+#1632890571
+git commit -a -m "Fix 3"
+#1632890576
+git push origin master
+#1632890697
+git status
+#1632890714
+git commit -a -m "Add cmdb-state tag"
+#1632890719
+git push origin master
+#1632890754
+ssh assort 
+#1632890067
+mc
