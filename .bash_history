@@ -7319,3 +7319,23 @@ git push origin master
 ssh assort 
 #1632890067
 mc
+#1632942206
+htop
+#1632945746
+vboxmanage modifymedium --compact EDEON.vdi 
+#1632978569
+git status
+#1632978704
+tig
+#1632978976
+docker-compose down
+#1632978994
+nano /etc/hosts
+#1632979028
+ping oboitop.site
+#1632979043
+cat /etc/hosts
+#1632979050
+sudo nano /etc/hosts
+#1632979057
+ping oboitop.site

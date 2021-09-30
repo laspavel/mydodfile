@@ -254,7 +254,7 @@ active-plugins=['spell', 'filebrowser', 'time', 'modelines', 'docinfo']
 [org/gnome/gedit/plugins/filebrowser]
 root='file:///'
 tree-view=true
-virtual-root='file:///run/media/laspavel/94f01781-6f06-4e81-bebf-e6ee50729327/home/admin/Player'
+virtual-root='file:///home/laspavel/Downloads'
 
 [org/gnome/gedit/preferences/encodings]
 candidate-encodings=['UTF-8', 'WINDOWS-1251', 'KOI8-R', 'CURRENT', 'ISO-8859-15', 'UTF-16']
@@ -549,7 +549,7 @@ download-updates-notify=false
 first-run=false
 install-timestamp=int64 1613421041
 online-updates-timestamp=int64 1621662286
-update-notification-timestamp=int64 1632932498
+update-notification-timestamp=int64 1633018183
 upgrade-notification-timestamp=int64 1632061574
 
 [org/gnome/system/location]
@@ -600,13 +600,13 @@ location-mode='path-bar'
 show-hidden=false
 show-size-column=true
 show-type-column=true
-sidebar-width=170
+sidebar-width=169
 sort-column='name'
 sort-directories-first=true
 sort-order='ascending'
 type-format='category'
-window-position=(2320, 124)
-window-size=(1077, 669)
+window-position=(2133, 145)
+window-size=(1396, 669)
 
 [org/virt-manager/virt-manager]
 manager-window-height=550
