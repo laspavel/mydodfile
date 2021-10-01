@@ -7339,3 +7339,7 @@ cat /etc/hosts
 sudo nano /etc/hosts
 #1632979057
 ping oboitop.site
+#1633026825
+mc
+#1633026839
+vboxmanage modifymedium --compact EDEON.vdi 
