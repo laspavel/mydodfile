@@ -7343,3 +7343,21 @@ ping oboitop.site
 mc
 #1633026839
 vboxmanage modifymedium --compact EDEON.vdi 
+#1633180346
+kx
+#1633180475
+mc
+#1633180934
+sudo mc
+#1633180967
+k
+#1633181077
+k get nodes
+#1633181087
+k get pods
+#1633181090
+k get pods -A
+#1633181252
+bc -l
+#1633181331
+k get nodes

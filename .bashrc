@@ -312,6 +312,8 @@ fi
 source <(kubectl completion bash)
 complete -F __start_kubectl k
 
+export KUBECONFIG=/home/laspavel/.kubeconfig/kube_config.yml
+
 export HISTCONTROL=ignorespace   # leading space hides commands from history
 export HISTFILESIZE=10000        # increase history file size (default is 500)
 export HISTSIZE=30000
