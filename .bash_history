@@ -7361,3 +7361,21 @@ k get pods -A
 bc -l
 #1633181331
 k get nodes
+#1633270993
+mc
+#1633271095
+ssh assort 
+#1633274176
+winbox
+#1633277145
+grep -rn "github"
+#1633277178
+grep -rn "tmux"
+#1633277205
+git status'
+#1633277209
+git status
+#1633278674
+git commit -a -m "Update 02.10.2021"
+#1633278678
+git push origin master
