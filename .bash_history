@@ -7379,3 +7379,11 @@ git status
 git commit -a -m "Update 02.10.2021"
 #1633278678
 git push origin master
+#1633282420
+git status
+#1633282426
+git remote -v
+#1633282437
+tig
+#1633340999
+ssh stroyplo 
