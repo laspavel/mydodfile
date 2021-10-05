@@ -7387,3 +7387,9 @@ git remote -v
 tig
 #1633340999
 ssh stroyplo 
+#1633354882
+bc -l
+#1633370863
+winbox
+#1633419290
+bc -l
