@@ -38,7 +38,7 @@ window-position=(1920, 0)
 window-size=(1920, 1006)
 
 [org/gnome/control-center]
-last-panel='info-overview'
+last-panel='sound'
 
 [org/gnome/desktop/app-folders]
 folder-children=['Utilities', 'YaST']
@@ -66,7 +66,7 @@ show-weekdate=true
 
 [org/gnome/desktop/input-sources]
 current=uint32 0
-mru-sources=[('xkb', 'ru'), ('xkb', 'us'), ('xkb', 'ua')]
+mru-sources=[('xkb', 'us'), ('xkb', 'ru'), ('xkb', 'ua')]
 sources=[('xkb', 'us'), ('xkb', 'ru'), ('xkb', 'ua')]
 xkb-options=['lv3:ralt_switch', 'grp:shift_caps_toggle']
 
@@ -178,7 +178,7 @@ application-id='xdg-desktop-portal-gtk.desktop'
 application-id='Zoom.desktop'
 
 [org/gnome/desktop/peripherals/keyboard]
-numlock-state=false
+numlock-state=true
 repeat=true
 
 [org/gnome/desktop/peripherals/mouse]
@@ -549,7 +549,7 @@ download-updates-notify=false
 first-run=false
 install-timestamp=int64 1613421041
 online-updates-timestamp=int64 1621662286
-update-notification-timestamp=int64 1633538923
+update-notification-timestamp=int64 1633624317
 upgrade-notification-timestamp=int64 1632061574
 
 [org/gnome/system/location]

@@ -7401,3 +7401,145 @@ ssh m
 mc
 #1633518811
 tmux -V
+#1633585923
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1633587349
+git clone git@github.com:laspavel/keepalived_ha_docker.git
+#1633587369
+git status
+#1633587373
+tig
+#1633587399
+git commit -a -m "Fix prometheus port"
+#1633587403
+git push origin master
+#1633596588
+mc
+#1633596592
+m
+#1633598786
+[5~
+#1633608178
+git status
+#1633608474
+[<0;7;4M
+#1633608725
+docker ps -a
+#1633609060
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1633610138
+ssh root@192.168.88.165
+#1633610224
+ssh root@192.168.88.20
+#1633610259
+ssh root@192.168.88.100
+#1633610349
+ssh root@192.168.88.20
+#1633610631
+ssh root@192.168.88.100
+#1633610796
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1633611761
+ssh root@192.168.88.165
+#1633611811
+ssh root@192.168.88.20
+#1633611838
+ssh root@192.168.88.100
+#1633611947
+ssh root@192.168.88.20
+#1633611966
+ssh root@192.168.88.100
+#1633610287
+mc
+#1633611985
+ssh root@192.168.88.20
+#1633612030
+ssh root@192.168.88.165
+#1633612149
+ssh root@192.168.88.20
+#1633612455
+pidof docker
+#1633612465
+pidof docker.service
+#1633612389
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1633612544
+ssh root@192.168.88.165
+#1633612577
+ssh root@192.168.88.20
+#1633611853
+mc
+#1633612896
+piof docker
+#1633612900
+pidof docker
+#1633612904
+pidof nginx
+#1633612656
+ssh root@192.168.88.20
+#1633612589
+ssh root@192.168.88.165
+#1633612988
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1633613132
+ssh root@192.168.88.165
+#1633613165
+ssh root@192.168.88.20
+#1633613229
+systemctl status keepalived
+#1633613233
+ssh root@192.168.88.20
+#1633613946
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1633614084
+ssh root@192.168.88.20
+#1633614092
+ssh root@192.168.88.165
+#1633614200
+ssh root@192.168.88.20
+#1633614214
+ssh root@192.168.88.165
+#1633614285
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1633614365
+ssh root@192.168.88.20
+#1633613553
+mc
+#1633614451
+ssh root@192.168.88.20
+#1633614663
+tig status
+#1633614669
+tig
+#1633614697
+git reset --hard f22acc117d5b55c5c1201dca259b3d6779ccf827
+#1633614746
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1633614800
+ssh root@192.168.88.20
+#1633614822
+ansible-playbook -i inventory.ini example.yml --ask-pass
+#1633613394
+ssh root@192.168.88.165
+#1633615035
+ssh root@192.168.88.165
+#1633615084
+ssh root@192.168.88.20
+#1633615126
+ssh root@192.168.88.165
+#1633615138
+ssh root@192.168.88.20
+#1633615224
+ssh root@192.168.88.165
+#1633615239
+mc
+#1633615245
+git status
+#1633615248
+tig
+#1633615260
+git commit -a -m "Fix err"
+#1633615263
+git push origin master
+#1633618965
+git remote -v
